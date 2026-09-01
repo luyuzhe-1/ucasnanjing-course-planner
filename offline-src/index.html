@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>我的选课拼图 - 离线版</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand" aria-hidden="true">日</div>
+    <div class="title-copy">
+      <p>国科大南京学院 · 2026–2027 秋季</p>
+      <h1>我的选课拼图 <em>离线版</em></h1>
+    </div>
+    <div class="stats" aria-label="选课概览">
+      <div><b id="selectedCount">0</b><span>已选课程</span></div>
+      <div><b id="creditCount">0.0</b><span>合计学分</span></div>
+      <div id="conflictStat" class="safe"><b id="conflictCount">无</b><span>时间冲突</span></div>
+    </div>
+  </header>
+
+  <div class="workspace">
+    <aside class="catalog">
+      <div class="catalog-head"><div><small>课程目录</small><h2>找到想选的课</h2></div><span id="resultCount" class="pill"></span></div>
+      <div class="search"><span aria-hidden="true">⌕</span><input id="searchInput" type="search" placeholder="搜索课程名、编码或学科" aria-label="搜索课程"></div>
+      <div class="filters">
+        <label><span>开课单位</span><select id="schoolFilter"></select></label>
+        <label><span>课程属性</span><select id="typeFilter"></select></label>
+        <label><span>培养层次</span><select id="levelFilter"></select></label>
+        <button id="resetFilters" class="outline">重置筛选</button>
+      </div>
+      <div id="courseList" class="course-list"></div>
+    </aside>
+
+    <main class="schedule-pane">
+      <div class="schedule-head">
+        <div><small>周视图</small><h2>课程时间分布</h2></div>
+        <div class="week-picker"><button id="prevWeek" aria-label="上一周">−</button><label for="weekSelect">查看周次</label><select id="weekSelect"></select><button id="nextWeek" aria-label="下一周">＋</button></div>
+      </div>
+      <div id="notice" class="notice" hidden></div>
+      <div id="conflictBanner" class="conflict-banner" hidden><b>⚠ 检测到时间重叠</b><span>红色课程在相同周次、星期和节次上相遇，请调整选择。</span></div>
+      <div class="timetable-scroll"><div id="timetable" class="timetable" aria-live="polite"></div></div>
+      <footer><span>数据来源：秋季学期按星期课表 + 计划开设课程总表</span><button id="clearSelection">清空所有选择</button></footer>
+    </main>
+  </div>
+  <script src="assets/courses.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
