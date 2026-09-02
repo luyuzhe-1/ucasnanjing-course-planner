@@ -1,8 +1,9 @@
 {
   "meta": {
     "title": "2026-2027秋季学期",
+    "source": "2026年秋季学期课表 (1).xlsx",
     "courseCount": 89,
-    "attributeCourseCount": 145,
+    "meetingCount": 157,
     "periodTimes": {
       "1": "08:30–09:15",
       "2": "09:20–10:05",
@@ -22,11 +23,12 @@
   },
   "courses": [
     {
-      "id": "100500PX001",
-      "name": "中医与保健",
-      "code": "100500PX001",
+      "id": "040200PX003",
+      "name": "研究生心理健康教育指导",
+      "englishName": "Mental Health Education Guidance for Graduate Students",
+      "code": "280223040200PX003",
       "school": "公共课",
-      "discipline": "中医学",
+      "discipline": "心理学",
       "type": "公共选修课",
       "level": "硕博通用课程",
       "hours": "30",
@@ -34,63 +36,238 @@
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "280",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "大开卷",
+      "chiefProfessor": "",
+      "teacher": "朱逢九",
       "meetings": [
         {
-          "name": "中医与保健",
-          "day": "周二",
-          "dayIndex": 2,
+          "name": "研究生心理健康教育指导",
+          "day": "周三",
+          "dayIndex": 3,
           "periods": [
-            10,
-            11,
-            12
+            8,
+            9
           ],
-          "weekSpec": "2-11周",
+          "weekSpec": "2-5,7-16周",
           "weeks": [
             2,
             3,
             4,
             5,
-            6,
             7,
             8,
             9,
             10,
-            11
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
           ],
-          "room": "图书馆A421"
+          "room": "图书馆A407"
+        },
+        {
+          "name": "研究生心理健康教育指导",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            8,
+            9
+          ],
+          "weekSpec": "6周",
+          "weeks": [
+            6
+          ],
+          "room": "图书馆A407"
         }
       ]
     },
     {
-      "id": "030500DB001",
-      "name": "中国马克思主义与当代",
-      "code": "030500DB001",
+      "id": "040300PX010",
+      "name": "瑜伽",
+      "englishName": "Yoga",
+      "code": "280223040300PX010",
       "school": "公共课",
-      "discipline": "马克思主义理论",
-      "type": "公共必修课",
-      "level": "博士课程",
-      "hours": "36",
-      "credits": "2.0",
+      "discipline": "体育学",
+      "type": "公共选修课",
+      "level": "硕博通用课程",
+      "hours": "30",
+      "credits": "0.5",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "32",
+      "enrolled": "0",
+      "teachingMethod": "其它（需说明）",
+      "examMethod": "其它（需说明）",
+      "chiefProfessor": "",
+      "teacher": "王泳宜",
       "meetings": [
         {
-          "name": "中国马克思主义与当代",
-          "day": "周三",
-          "dayIndex": 3,
+          "name": "瑜伽",
+          "day": "周一",
+          "dayIndex": 1,
           "periods": [
-            10,
-            11,
-            12
+            7,
+            8
           ],
-          "weekSpec": "2-13周",
+          "weekSpec": "2-5,7-17周",
           "weeks": [
             2,
             3,
             4,
             5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "room": "研创楼205"
+        }
+      ]
+    },
+    {
+      "id": "040300PX014",
+      "name": "排球",
+      "englishName": "Volleyball",
+      "code": "280223040300PX014",
+      "school": "公共课",
+      "discipline": "体育学",
+      "type": "公共选修课",
+      "level": "硕博通用课程",
+      "hours": "30",
+      "credits": "0.5",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "46",
+      "enrolled": "0",
+      "teachingMethod": "其它（需说明）",
+      "examMethod": "其它（需说明）",
+      "chiefProfessor": "",
+      "teacher": "朱建国",
+      "meetings": [
+        {
+          "name": "排球",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            7,
+            8
+          ],
+          "weekSpec": "2-5,7-17周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "room": "排球场"
+        }
+      ]
+    },
+    {
+      "id": "070301P4002",
+      "name": "材料表征基础",
+      "englishName": "Fundamentals of Material Characterization",
+      "code": "280223070301P4002",
+      "school": "能源动力与智能制造学院",
+      "discipline": "无机化学",
+      "type": "研讨课",
+      "level": "硕博通用课程",
+      "hours": "20",
+      "credits": "1.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讨论为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "尹良等",
+      "meetings": [
+        {
+          "name": "材料表征基础",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            7,
+            8,
+            9
+          ],
+          "weekSpec": "2-3,6-10周",
+          "weeks": [
+            2,
+            3,
             6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "room": "B105"
+        }
+      ]
+    },
+    {
+      "id": "070401P3004",
+      "name": "天文写作",
+      "englishName": "Astronomical Writing",
+      "code": "280223070401P3004",
+      "school": "天文与空间科学技术学院",
+      "discipline": "天体物理",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "文献综述",
+      "chiefProfessor": "",
+      "teacher": "杨磊等",
+      "meetings": [
+        {
+          "name": "天文写作",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "2-5,7-13周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
             7,
             8,
             9,
@@ -99,16 +276,48 @@
             12,
             13
           ],
-          "room": "A102"
+          "room": "B201"
+        },
+        {
+          "name": "天文写作",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "14-15周",
+          "weeks": [
+            14,
+            15
+          ],
+          "room": "B201"
+        },
+        {
+          "name": "天文写作",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "6周",
+          "weeks": [
+            6
+          ],
+          "room": "B201"
         }
       ]
     },
     {
-      "id": "085404P3011",
-      "name": "云计算技术与工程",
-      "code": "085404P3011",
-      "school": "信息学院",
-      "discipline": "计算机技术",
+      "id": "070401P3005",
+      "name": "大数据天文光谱分析",
+      "englishName": "Big data analysis for astronomical spectra",
+      "code": "280223070401P3005",
+      "school": "天文与空间科学技术学院",
+      "discipline": "天体物理",
       "type": "专业课",
       "level": "硕博通用课程",
       "hours": "40",
@@ -116,165 +325,152 @@
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "文献综述",
+      "chiefProfessor": "罗阿理",
+      "teacher": "邹志强",
       "meetings": [
         {
-          "name": "云计算技术与工程",
-          "day": "周二",
-          "dayIndex": 2,
+          "name": "大数据天文光谱分析",
+          "day": "周三",
+          "dayIndex": 3,
           "periods": [
-            10,
-            11,
-            12
+            8,
+            9
           ],
-          "weekSpec": "2-15周",
+          "weekSpec": "2-5,7-12周",
           "weeks": [
             2,
             3,
             4,
             5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "room": "B201"
+        },
+        {
+          "name": "大数据天文光谱分析",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            1,
+            2
+          ],
+          "weekSpec": "2-3,6-12周",
+          "weeks": [
+            2,
+            3,
             6,
             7,
             8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "room": "B201"
+        },
+        {
+          "name": "大数据天文光谱分析",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            8,
+            9
+          ],
+          "weekSpec": "6周",
+          "weeks": [
+            6
+          ],
+          "room": "B201"
+        }
+      ]
+    },
+    {
+      "id": "0704Z1P2004",
+      "name": "天文终端科学仪器",
+      "englishName": "Instruments for Astronomy",
+      "code": "2802230704Z1P2004",
+      "school": "天文与空间科学技术学院",
+      "discipline": "天文技术与方法",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "朱永田",
+      "teacher": "张凯",
+      "meetings": [
+        {
+          "name": "天文终端科学仪器",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "11-19周",
+          "weeks": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "room": "B205"
+        },
+        {
+          "name": "天文终端科学仪器",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            7,
+            8,
+            9
+          ],
+          "weekSpec": "9-19周",
+          "weeks": [
             9,
             10,
             11,
             12,
             13,
             14,
-            15
-          ],
-          "room": "B203"
-        }
-      ]
-    },
-    {
-      "id": "085410P2001",
-      "name": "人工智能与机器学习方法",
-      "code": "085410P2001",
-      "school": "信息学院",
-      "discipline": "人工智能",
-      "type": "专业核心课",
-      "level": "硕博通用课程",
-      "hours": "60",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "春",
-      "note": "",
-      "meetings": [
-        {
-          "name": "人工智能与机器学习方法",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            10,
-            11,
-            12
-          ],
-          "weekSpec": "2-3,6-12,14周",
-          "weeks": [
-            2,
-            3,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            14
-          ],
-          "room": "B203"
-        },
-        {
-          "name": "人工智能与机器学习方法",
-          "day": "周日",
-          "dayIndex": 7,
-          "periods": [
-            2,
-            3,
-            4
-          ],
-          "weekSpec": "2,6-12,14,16周",
-          "weeks": [
-            2,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            14,
-            16
-          ],
-          "room": "B203"
-        }
-      ]
-    },
-    {
-      "id": "071200MX016",
-      "name": "人工智能发展历程及其伦理、风险议题",
-      "code": "071200MX016",
-      "school": "公共课",
-      "discipline": "科学技术史",
-      "type": "公共选修课",
-      "level": "硕士课程",
-      "hours": "40",
-      "credits": "1.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "人工智能发展历程及其伦理、风险议题",
-          "day": "周三",
-          "dayIndex": 3,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "14-20周",
-          "weeks": [
-            14,
             15,
             16,
             17,
             18,
-            19,
-            20
+            19
           ],
-          "room": "A101"
-        },
-        {
-          "name": "人工智能发展历程及其伦理、风险议题",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "14-20周",
-          "weeks": [
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ],
-          "room": "A101"
+          "room": "B205"
         }
       ]
     },
     {
-      "id": "070502P3002",
-      "name": "人文地理学概论",
-      "code": "070502P3002",
-      "school": "资源环境与地球科学学院",
-      "discipline": "人文地理学",
+      "id": "0704Z1P3002",
+      "name": "天文光子学",
+      "englishName": "Astrophotonics",
+      "code": "2802230704Z1P3002",
+      "school": "天文与空间科学技术学院",
+      "discipline": "天文技术与方法",
       "type": "专业课",
       "level": "硕博通用课程",
       "hours": "60",
@@ -282,23 +478,28 @@
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "何晋平",
+      "teacher": "何晋平",
       "meetings": [
         {
-          "name": "人文地理学概论",
-          "day": "周三",
-          "dayIndex": 3,
+          "name": "天文光子学",
+          "day": "周一",
+          "dayIndex": 1,
           "periods": [
             2,
             3,
             4
           ],
-          "weekSpec": "2-20周",
+          "weekSpec": "2-5,7-19周",
           "weeks": [
             2,
             3,
             4,
             5,
-            6,
             7,
             8,
             9,
@@ -311,23 +512,246 @@
             16,
             17,
             18,
-            19,
-            20
+            19
           ],
-          "room": "B101"
+          "room": "B201"
         },
         {
-          "name": "人文地理学概论",
-          "day": "周五",
-          "dayIndex": 5,
+          "name": "天文光子学",
+          "day": "周四",
+          "dayIndex": 4,
           "periods": [
             2,
             3,
             4
           ],
-          "weekSpec": "20周",
+          "weekSpec": "17-19周",
           "weeks": [
-            20
+            17,
+            18,
+            19
+          ],
+          "room": "B201"
+        }
+      ]
+    },
+    {
+      "id": "070500P1009",
+      "name": "流域地理学",
+      "englishName": "Watershend Geography",
+      "code": "280223070500P1009",
+      "school": "资源环境与地球科学学院",
+      "discipline": "地理学",
+      "type": "学科核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "杨桂山",
+      "teacher": "万荣荣等",
+      "meetings": [
+        {
+          "name": "流域地理学",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "2-5,7-11周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "room": "B101"
+        },
+        {
+          "name": "流域地理学",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "2-4,6-10周",
+          "weeks": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "room": "B101"
+        },
+        {
+          "name": "流域地理学",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "3周",
+          "weeks": [
+            3
+          ],
+          "room": "B101"
+        }
+      ]
+    },
+    {
+      "id": "070501P2002",
+      "name": "湖泊沉积与环境",
+      "englishName": "Lake Sediments and Environment",
+      "code": "280223070501P2002",
+      "school": "资源环境与地球科学学院",
+      "discipline": "自然地理学",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "张恩楼",
+      "teacher": "王荣等",
+      "meetings": [
+        {
+          "name": "湖泊沉积与环境",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "2-5,7-9周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9
+          ],
+          "room": "B101"
+        },
+        {
+          "name": "湖泊沉积与环境",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            3,
+            4
+          ],
+          "weekSpec": "2-3,6-11周",
+          "weeks": [
+            2,
+            3,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "room": "B101"
+        },
+        {
+          "name": "湖泊沉积与环境",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "3周",
+          "weeks": [
+            3
+          ],
+          "room": "B101"
+        }
+      ]
+    },
+    {
+      "id": "070501P4005",
+      "name": "数据挖掘与可视化-R语言实践",
+      "englishName": "Data Mining & Visualization with R",
+      "code": "280223070501P4005",
+      "school": "资源环境与地球科学学院",
+      "discipline": "自然地理学",
+      "type": "研讨课",
+      "level": "硕博通用课程",
+      "hours": "20",
+      "credits": "1.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讨论为主",
+      "examMethod": "其它（需说明）",
+      "chiefProfessor": "",
+      "teacher": "万荣荣等",
+      "meetings": [
+        {
+          "name": "数据挖掘与可视化-R语言实践",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "2-5,7-11周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "room": "B101"
+        },
+        {
+          "name": "数据挖掘与可视化-R语言实践",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "6周",
+          "weeks": [
+            6
           ],
           "room": "B101"
         }
@@ -336,7 +760,8 @@
     {
       "id": "070501P5006",
       "name": "仪器分析操作与实训",
-      "code": "070501P5006",
+      "englishName": "Instrumental Analysis Operation and Training",
+      "code": "280223070501P5006",
       "school": "资源环境与地球科学学院",
       "discipline": "自然地理学",
       "type": "实验课",
@@ -346,6 +771,12 @@
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "实验为主",
+      "examMethod": "其它（需说明）",
+      "chiefProfessor": "",
+      "teacher": "沈幸等",
       "meetings": [
         {
           "name": "仪器分析操作与实训",
@@ -378,97 +809,255 @@
       ]
     },
     {
-      "id": "090302M4001",
-      "name": "休闲与精致农业",
-      "code": "090302M4001",
+      "id": "070502P2001",
+      "name": "城市与区域规划",
+      "englishName": "Uban and Regional Planning",
+      "code": "280223070502P2001",
       "school": "资源环境与地球科学学院",
-      "discipline": "植物营养学",
-      "type": "研讨课",
-      "level": "硕士课程",
-      "hours": "20",
-      "credits": "1.0",
+      "discipline": "人文地理学",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "孙伟",
+      "teacher": "王磊",
       "meetings": [
         {
-          "name": "休闲与精致农业",
-          "day": "周四",
-          "dayIndex": 4,
+          "name": "城市与区域规划",
+          "day": "周一",
+          "dayIndex": 1,
           "periods": [
-            3,
-            4
+            5,
+            6,
+            7
           ],
-          "weekSpec": "2-4,6-12周",
+          "weekSpec": "10-13周",
+          "weeks": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "room": "B101"
+        },
+        {
+          "name": "城市与区域规划",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "2-3,6-13周",
           "weeks": [
             2,
             3,
-            4,
             6,
             7,
             8,
             9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "room": "B101"
+        }
+      ]
+    },
+    {
+      "id": "070502P3002",
+      "name": "人文地理学概论",
+      "englishName": "Human Geography Introduction",
+      "code": "280223070502P3002",
+      "school": "资源环境与地球科学学院",
+      "discipline": "人文地理学",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "",
+      "teacher": "李红波等",
+      "meetings": [
+        {
+          "name": "人文地理学概论",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "2-5,7-20周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "room": "B101"
+        },
+        {
+          "name": "人文地理学概论",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "20周",
+          "weeks": [
+            20
+          ],
+          "room": "B101"
+        },
+        {
+          "name": "人文地理学概论",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "6周",
+          "weeks": [
+            6
+          ],
+          "room": "B101"
+        }
+      ]
+    },
+    {
+      "id": "070503P2003",
+      "name": "水文遥感与全球变化",
+      "englishName": "Remote Sensing of Hydrology and Global Change",
+      "code": "280223070503P2003",
+      "school": "资源环境与地球科学学院",
+      "discipline": "地图学与地理信息系统",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "宋春桥",
+      "teacher": "宋春桥",
+      "meetings": [
+        {
+          "name": "水文遥感与全球变化",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
             10,
             11,
             12
           ],
-          "room": "B103"
+          "weekSpec": "2-5,7-16周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "B101"
         }
       ]
     },
     {
-      "id": "085802P2002",
-      "name": "传热学理论及工程应用",
-      "code": "085802P2002",
-      "school": "能源动力与智能制造学院",
-      "discipline": "动力工程",
+      "id": "070503P2005",
+      "name": "遥感理论与综合应用",
+      "englishName": "Remote?Sensing:?Principles?and?Applications",
+      "code": "280223070503P2005",
+      "school": "资源环境与地球科学学院",
+      "discipline": "地图学与地理信息系统",
       "type": "专业核心课",
       "level": "硕博通用课程",
-      "hours": "60",
-      "credits": "3.0",
+      "hours": "50",
+      "credits": "2.5",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "段洪涛",
+      "teacher": "罗菊花",
       "meetings": [
         {
-          "name": "传热学理论及工程应用",
-          "day": "周二",
-          "dayIndex": 2,
+          "name": "遥感理论与综合应用",
+          "day": "周三",
+          "dayIndex": 3,
           "periods": [
-            8,
-            9
-          ],
-          "weekSpec": "2-5,7-14周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9,
             10,
             11,
-            12,
-            13,
-            14
+            12
           ],
-          "room": "B205"
+          "weekSpec": "19周",
+          "weeks": [
+            19
+          ],
+          "room": "B101"
         },
         {
-          "name": "传热学理论及工程应用",
-          "day": "周四",
-          "dayIndex": 4,
+          "name": "遥感理论与综合应用",
+          "day": "周五",
+          "dayIndex": 5,
           "periods": [
-            1,
-            2,
-            3
+            10,
+            11,
+            12
           ],
-          "weekSpec": "2-4,6-14周",
+          "weekSpec": "2-3,6-17,19-20周",
           "weeks": [
             2,
             3,
-            4,
             6,
             7,
             8,
@@ -477,86 +1066,24 @@
             11,
             12,
             13,
-            14
+            14,
+            15,
+            16,
+            17,
+            19,
+            20
           ],
-          "room": "B205"
+          "room": "B101"
         }
       ]
     },
     {
-      "id": "071300P1002（线）",
-      "name": "全球变化生态学(线)",
-      "code": "071300P1002（线）",
+      "id": "070503P6004",
+      "name": "地理信息系统应用实践",
+      "englishName": "GIS Tutorial and Practice",
+      "code": "280223070503P6004",
       "school": "资源环境与地球科学学院",
-      "discipline": "生态学",
-      "type": "学科核心课",
-      "level": "硕博通用课程",
-      "hours": "60",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "限生态学专业学生选课",
-      "meetings": [
-        {
-          "name": "全球变化生态学(线)",
-          "day": "周二",
-          "dayIndex": 2,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "2-13周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "room": "B202"
-        },
-        {
-          "name": "全球变化生态学(线)",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "2-13周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "room": "B202"
-        }
-      ]
-    },
-    {
-      "id": "070903P6002",
-      "name": "南京古生物博物馆实践",
-      "code": "070903P6002",
-      "school": "资源环境与地球科学学院",
-      "discipline": "古生物学与地层学",
+      "discipline": "地图学与地理信息系统",
       "type": "实践课",
       "level": "硕博通用课程",
       "hours": "40",
@@ -564,91 +1091,23 @@
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "实践为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "宋春桥",
+      "teacher": "刘凯",
       "meetings": [
         {
-          "name": "南京古生物博物馆实践",
-          "day": "周三",
-          "dayIndex": 3,
+          "name": "地理信息系统应用实践",
+          "day": "周四",
+          "dayIndex": 4,
           "periods": [
-            5,
-            6
-          ],
-          "weekSpec": "3-4,7-13周",
-          "weeks": [
-            3,
-            4,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "room": "A202"
-        },
-        {
-          "name": "南京古生物博物馆实践",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            5,
-            6
-          ],
-          "weekSpec": "2,6,9-13周",
-          "weeks": [
-            2,
-            6,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "room": "A202"
-        },
-        {
-          "name": "南京古生物博物馆实践",
-          "day": "周日",
-          "dayIndex": 7,
-          "periods": [
-            2,
-            3
-          ],
-          "weekSpec": "2,7-9周",
-          "weeks": [
-            2,
             7,
             8,
             9
           ],
-          "room": "古生物博物馆"
-        }
-      ]
-    },
-    {
-      "id": "050200DB001",
-      "name": "博士学位英语1班(听说类)",
-      "code": "050200DB001",
-      "school": "公共课",
-      "discipline": "外国语言文学",
-      "type": "公共必修课",
-      "level": "博士课程",
-      "hours": "64",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "博士学位英语1班(听说类)",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            5,
-            6
-          ],
-          "weekSpec": "2-4,6-18周",
+          "weekSpec": "2-4,6-16周",
           "weeks": [
             2,
             3,
@@ -663,153 +1122,17 @@
             13,
             14,
             15,
-            16,
-            17,
-            18
+            16
           ],
-          "room": "A202"
-        }
-      ]
-    },
-    {
-      "id": "050200DB001",
-      "name": "博士学位英语1班(读写类)",
-      "code": "050200DB001",
-      "school": "公共课",
-      "discipline": "外国语言文学",
-      "type": "公共必修课",
-      "level": "博士课程",
-      "hours": "64",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "博士学位英语1班(读写类)",
-          "day": "周一",
-          "dayIndex": 1,
-          "periods": [
-            1,
-            2
-          ],
-          "weekSpec": "2-5,7-18周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ],
-          "room": "A202"
-        }
-      ]
-    },
-    {
-      "id": "050200DB001",
-      "name": "博士学位英语2班(听说类)",
-      "code": "050200DB001",
-      "school": "公共课",
-      "discipline": "外国语言文学",
-      "type": "公共必修课",
-      "level": "博士课程",
-      "hours": "64",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "博士学位英语2班(听说类)",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            7,
-            8
-          ],
-          "weekSpec": "2-4,6-18周",
-          "weeks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ],
-          "room": "A202"
-        }
-      ]
-    },
-    {
-      "id": "050200DB001",
-      "name": "博士学位英语2班(读写类)",
-      "code": "050200DB001",
-      "school": "公共课",
-      "discipline": "外国语言文学",
-      "type": "公共必修课",
-      "level": "博士课程",
-      "hours": "64",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "博士学位英语2班(读写类)",
-          "day": "周一",
-          "dayIndex": 1,
-          "periods": [
-            3,
-            4
-          ],
-          "weekSpec": "2-5,7-18周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ],
-          "room": "A202"
+          "room": "B101"
         }
       ]
     },
     {
       "id": "070903P2001",
       "name": "古无脊椎动物学",
-      "code": "070903P2001",
+      "englishName": "Invertebrate Paleontology",
+      "code": "280223070903P2001",
       "school": "资源环境与地球科学学院",
       "discipline": "古生物学与地层学",
       "type": "专业核心课",
@@ -819,6 +1142,12 @@
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "其它（需说明）",
+      "chiefProfessor": "吴荣昌",
+      "teacher": "黄冰",
       "meetings": [
         {
           "name": "古无脊椎动物学",
@@ -828,12 +1157,11 @@
             1,
             2
           ],
-          "weekSpec": "3-13周",
+          "weekSpec": "3-5,7-13周",
           "weeks": [
             3,
             4,
             5,
-            6,
             7,
             8,
             9,
@@ -865,13 +1193,28 @@
             13
           ],
           "room": "A202"
+        },
+        {
+          "name": "古无脊椎动物学",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            1,
+            2
+          ],
+          "weekSpec": "6周",
+          "weeks": [
+            6
+          ],
+          "room": "A202"
         }
       ]
     },
     {
       "id": "070903P2002",
       "name": "古植物学",
-      "code": "070903P2002",
+      "englishName": "Paleobotany",
+      "code": "280223070903P2002",
       "school": "资源环境与地球科学学院",
       "discipline": "古生物学与地层学",
       "type": "专业核心课",
@@ -881,6 +1224,12 @@
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "王军",
+      "teacher": "王永栋等",
       "meetings": [
         {
           "name": "古植物学",
@@ -944,11 +1293,911 @@
       ]
     },
     {
-      "id": "085601P2003",
-      "name": "固体物理(材料与化工)",
-      "code": "085601P2003",
+      "id": "070903P3001",
+      "name": "微体古生物学",
+      "englishName": "Micro Palaeontology",
+      "code": "280223070903P3001",
+      "school": "资源环境与地球科学学院",
+      "discipline": "古生物学与地层学",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "张以春",
+      "teacher": "盛青怡",
+      "meetings": [
+        {
+          "name": "微体古生物学",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            8,
+            9
+          ],
+          "weekSpec": "3-5,7-13周",
+          "weeks": [
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "room": "A202"
+        },
+        {
+          "name": "微体古生物学",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            7,
+            8
+          ],
+          "weekSpec": "3,6-13周",
+          "weeks": [
+            3,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "room": "A202"
+        },
+        {
+          "name": "微体古生物学",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            8,
+            9
+          ],
+          "weekSpec": "3周",
+          "weeks": [
+            3
+          ],
+          "room": "A202"
+        }
+      ]
+    },
+    {
+      "id": "070903P3002",
+      "name": "孢粉学",
+      "englishName": "Palynology",
+      "code": "280223070903P3002",
+      "school": "资源环境与地球科学学院",
+      "discipline": "古生物学与地层学",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "李建国",
+      "teacher": "刘锋等",
+      "meetings": [
+        {
+          "name": "孢粉学",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "2,4,6-16周",
+          "weeks": [
+            2,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "A202"
+        },
+        {
+          "name": "孢粉学",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            1,
+            2,
+            3
+          ],
+          "weekSpec": "9周",
+          "weeks": [
+            9
+          ],
+          "room": "户外实践"
+        }
+      ]
+    },
+    {
+      "id": "070903P4003",
+      "name": "现代古生物学",
+      "englishName": "Modern Paleontology",
+      "code": "280223070903P4003",
+      "school": "资源环境与地球科学学院",
+      "discipline": "古生物学与地层学",
+      "type": "研讨课",
+      "level": "硕博通用课程",
+      "hours": "20",
+      "credits": "1.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讨论为主",
+      "examMethod": "其它（需说明）",
+      "chiefProfessor": "袁训来",
+      "teacher": "庞科",
+      "meetings": [
+        {
+          "name": "现代古生物学",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            3,
+            4
+          ],
+          "weekSpec": "2-5,7-11周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "room": "A202"
+        },
+        {
+          "name": "现代古生物学",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            3,
+            4
+          ],
+          "weekSpec": "3周",
+          "weeks": [
+            3
+          ],
+          "room": "A202"
+        }
+      ]
+    },
+    {
+      "id": "070903P6002",
+      "name": "南京古生物博物馆实践",
+      "englishName": "Practice of Palaeontology Museum in Nanjing",
+      "code": "280223070903P6002",
+      "school": "资源环境与地球科学学院",
+      "discipline": "古生物学与地层学",
+      "type": "实践课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "1.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "实践为主",
+      "examMethod": "大开卷",
+      "chiefProfessor": "王永栋",
+      "teacher": "傅强",
+      "meetings": [
+        {
+          "name": "南京古生物博物馆实践",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "3-4,7-13周",
+          "weeks": [
+            3,
+            4,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "room": "A202"
+        },
+        {
+          "name": "南京古生物博物馆实践",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "2,6,9-13周",
+          "weeks": [
+            2,
+            6,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "room": "A202"
+        },
+        {
+          "name": "南京古生物博物馆实践",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            2,
+            3
+          ],
+          "weekSpec": "2,7-9周",
+          "weeks": [
+            2,
+            7,
+            8,
+            9
+          ],
+          "room": "古生物博物馆"
+        }
+      ]
+    },
+    {
+      "id": "071200MX016",
+      "name": "人工智能发展历程及其伦理、风险议题",
+      "englishName": "The Development History of Artificial Intelligence and Its Ethical and Risk Issues",
+      "code": "280223071200MX016",
+      "school": "公共课",
+      "discipline": "科学技术史",
+      "type": "公共选修课",
+      "level": "硕士课程",
+      "hours": "40",
+      "credits": "1.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "280",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "文献综述",
+      "chiefProfessor": "",
+      "teacher": "TODOMASAAKI",
+      "meetings": [
+        {
+          "name": "人工智能发展历程及其伦理、风险议题",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "14-20周",
+          "weeks": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "room": "A101"
+        },
+        {
+          "name": "人工智能发展历程及其伦理、风险议题",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "14-20周",
+          "weeks": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "room": "A101"
+        }
+      ]
+    },
+    {
+      "id": "071300P1002（线）",
+      "name": "全球变化生态学(线上课，在教室集中上)",
+      "englishName": "Global Change Ecology",
+      "code": "280223071300P1002",
+      "school": "资源环境与地球科学学院",
+      "discipline": "生态学",
+      "type": "学科核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "限生态学专业学生选课",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "刘玲莉",
+      "teacher": "冯晓娟等",
+      "meetings": [
+        {
+          "name": "全球变化生态学(线上课，在教室集中上)",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "2-5,7-13周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "room": "B202"
+        },
+        {
+          "name": "全球变化生态学(线上课，在教室集中上)",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "2-13周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "room": "B202"
+        },
+        {
+          "name": "全球变化生态学(线上课，在教室集中上)",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "3周",
+          "weeks": [
+            3
+          ],
+          "room": "B202"
+        }
+      ]
+    },
+    {
+      "id": "0713X2P3005（线）",
+      "name": "流域生态学(线上课，在教室集中上)",
+      "englishName": "Watershed Ecology",
+      "code": "2802230713X2P3005",
+      "school": "资源环境与地球科学学院",
+      "discipline": "城市与区域生态学",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "限生态学、水土保持与荒漠化防治专业学生选课",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "赵洪涛",
+      "teacher": "马金锋",
+      "meetings": [
+        {
+          "name": "流域生态学(线上课，在教室集中上)",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "2-17周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "room": "B205"
+        }
+      ]
+    },
+    {
+      "id": "0713X2P3006（线）",
+      "name": "生态统计分析方法(线上课，在教室集中上)",
+      "englishName": "Methods for Ecological Statistical Analysis",
+      "code": "2802230713X2P3006",
+      "school": "资源环境与地球科学学院",
+      "discipline": "城市与区域生态学",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "限生态学专业学生选课",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "大开卷",
+      "chiefProfessor": "",
+      "teacher": "张霜",
+      "meetings": [
+        {
+          "name": "生态统计分析方法(线上课，在教室集中上)",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "3-5,7-19周",
+          "weeks": [
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "room": "B202"
+        },
+        {
+          "name": "生态统计分析方法(线上课，在教室集中上)",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "6周",
+          "weeks": [
+            6
+          ],
+          "room": "B202"
+        }
+      ]
+    },
+    {
+      "id": "080300P1003",
+      "name": "高等物理光学",
+      "englishName": "Advanced Physical Optics",
+      "code": "280223080300P1003",
+      "school": "天文与空间科学技术学院",
+      "discipline": "光学工程",
+      "type": "学科核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "高万荣",
+      "meetings": [
+        {
+          "name": "高等物理光学",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            1,
+            2,
+            3
+          ],
+          "weekSpec": "2-5,7-19周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "room": "B201"
+        },
+        {
+          "name": "高等物理光学",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            1,
+            2,
+            3
+          ],
+          "weekSpec": "17,19周",
+          "weeks": [
+            17,
+            19
+          ],
+          "room": "B201"
+        },
+        {
+          "name": "高等物理光学",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            1,
+            2,
+            3
+          ],
+          "weekSpec": "6周",
+          "weeks": [
+            6
+          ],
+          "room": "B201"
+        }
+      ]
+    },
+    {
+      "id": "0803X1P3003",
+      "name": "计算光学成像技术",
+      "englishName": "Computational Optical Imaging Technology",
+      "code": "2802230803X1P3003",
+      "school": "天文与空间科学技术学院",
+      "discipline": "光电成像与传感技术",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "文献综述",
+      "chiefProfessor": "",
+      "teacher": "左超",
+      "meetings": [
+        {
+          "name": "计算光学成像技术",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            11,
+            12,
+            13
+          ],
+          "weekSpec": "2-5,7-16周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "B201"
+        }
+      ]
+    },
+    {
+      "id": "080401P2001",
+      "name": "天文望远镜结构",
+      "englishName": "Astronomical Telescope Structure",
+      "code": "280223080401P2001",
+      "school": "天文与空间科学技术学院",
+      "discipline": "精密仪器及机械",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "王国民",
+      "teacher": "章海鹰",
+      "meetings": [
+        {
+          "name": "天文望远镜结构",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "2-5,7-10周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10
+          ],
+          "room": "B201"
+        },
+        {
+          "name": "天文望远镜结构",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "2-4,6-13周",
+          "weeks": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "room": "B201"
+        },
+        {
+          "name": "天文望远镜结构",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "3周",
+          "weeks": [
+            3
+          ],
+          "room": "B201"
+        }
+      ]
+    },
+    {
+      "id": "080402P2003",
+      "name": "天文参考系",
+      "englishName": "Astronomy Reference Department",
+      "code": "280223080402P2003",
+      "school": "天文与空间科学技术学院",
+      "discipline": "测试计量技术及仪器",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "",
+      "teacher": "朱紫",
+      "meetings": [
+        {
+          "name": "天文参考系",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            6,
+            7,
+            8
+          ],
+          "weekSpec": "10-20周",
+          "weeks": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "room": "B201"
+        },
+        {
+          "name": "天文参考系",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            6,
+            7,
+            8
+          ],
+          "weekSpec": "2-3,6-12周",
+          "weeks": [
+            2,
+            3,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "room": "B201"
+        }
+      ]
+    },
+    {
+      "id": "080402P4001",
+      "name": "多波段天文观测与数据处理方法",
+      "englishName": "Multi-band Astronomical Observations and Data Processing  Method",
+      "code": "280223080402P4001",
+      "school": "天文与空间科学技术学院",
+      "discipline": "测试计量技术及仪器",
+      "type": "研讨课",
+      "level": "硕博通用课程",
+      "hours": "20",
+      "credits": "1.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讨论为主",
+      "examMethod": "大开卷",
+      "chiefProfessor": "赵永恒",
+      "teacher": "邹虎",
+      "meetings": [
+        {
+          "name": "多波段天文观测与数据处理方法",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "13-17,19-20周",
+          "weeks": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            19,
+            20
+          ],
+          "room": "B201"
+        }
+      ]
+    },
+    {
+      "id": "0805J1P2003",
+      "name": "纳米材料制备科学",
+      "englishName": "Preparation Principle of Nano-materials",
+      "code": "2802230805J1P2003",
       "school": "能源动力与智能制造学院",
-      "discipline": "材料工程",
+      "discipline": "纳米科学与技术",
       "type": "专业核心课",
       "level": "硕博通用课程",
       "hours": "40",
@@ -956,15 +2205,624 @@
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "",
+      "teacher": "郭新立",
       "meetings": [
         {
-          "name": "固体物理(材料与化工)",
-          "day": "周四",
-          "dayIndex": 4,
+          "name": "纳米材料制备科学",
+          "day": "周二",
+          "dayIndex": 2,
           "periods": [
             10,
             11,
             12
+          ],
+          "weekSpec": "2-5,7-15周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "room": "B105"
+        },
+        {
+          "name": "纳米材料制备科学",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "3周",
+          "weeks": [
+            3
+          ],
+          "room": "B105"
+        }
+      ]
+    },
+    {
+      "id": "081201P2001",
+      "name": "并行处理",
+      "englishName": "Parallel Processing",
+      "code": "280223081201P2001",
+      "school": "工业人工智能研究所",
+      "discipline": "计算机系统结构",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "王展",
+      "teacher": "贾伟乐",
+      "meetings": [
+        {
+          "name": "并行处理",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "2-5,7-20周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "room": "B203"
+        },
+        {
+          "name": "并行处理",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "3周",
+          "weeks": [
+            3
+          ],
+          "room": "B203"
+        }
+      ]
+    },
+    {
+      "id": "081203D2002",
+      "name": "计算机图形计算与分析",
+      "englishName": "Analysis and Algorithms of Computer Graphics",
+      "code": "280223081203D2002",
+      "school": "工业人工智能研究所",
+      "discipline": "计算机应用技术",
+      "type": "专业核心课",
+      "level": "博士课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "杨周旺",
+      "teacher": "黄武陵",
+      "meetings": [
+        {
+          "name": "计算机图形计算与分析",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "2-5,7-20周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "room": "B203"
+        }
+      ]
+    },
+    {
+      "id": "082502P2001",
+      "name": "航空发动机与燃气轮机结构设计",
+      "englishName": "Aero Engine & Gas Turbine Structure Design",
+      "code": "280223082502P2001",
+      "school": "能源动力与智能制造学院",
+      "discipline": "航空宇航推进理论与工程",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "50",
+      "credits": "2.5",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "杜强",
+      "teacher": "杜强",
+      "meetings": [
+        {
+          "name": "航空发动机与燃气轮机结构设计",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "2-5,7-18周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "room": "B105"
+        },
+        {
+          "name": "航空发动机与燃气轮机结构设计",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "6周",
+          "weeks": [
+            6
+          ],
+          "room": "B105"
+        }
+      ]
+    },
+    {
+      "id": "083001P3009",
+      "name": "水域环境微生物学",
+      "englishName": "Aquatic Environmental Microbiology",
+      "code": "280223083001P3009",
+      "school": "资源环境与地球科学学院",
+      "discipline": "环境科学",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "王建军",
+      "teacher": "汤祥明",
+      "meetings": [
+        {
+          "name": "水域环境微生物学",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            8,
+            9
+          ],
+          "weekSpec": "2-5,7-12周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "room": "B101"
+        },
+        {
+          "name": "水域环境微生物学",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            8,
+            9
+          ],
+          "weekSpec": "2-3,6-12周",
+          "weeks": [
+            2,
+            3,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "room": "B101"
+        },
+        {
+          "name": "水域环境微生物学",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            8,
+            9
+          ],
+          "weekSpec": "3周",
+          "weeks": [
+            3
+          ],
+          "room": "B101"
+        }
+      ]
+    },
+    {
+      "id": "083001P4005",
+      "name": "湖泊-流域水生态环境模拟",
+      "englishName": "Aquatic Modelling for Lake-Watershed Ecosystem",
+      "code": "280223083001P4005",
+      "school": "资源环境与地球科学学院",
+      "discipline": "环境科学",
+      "type": "研讨课",
+      "level": "硕博通用课程",
+      "hours": "20",
+      "credits": "1.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讨论为主",
+      "examMethod": "其它（需说明）",
+      "chiefProfessor": "黄佳聪",
+      "teacher": "赖锡军等",
+      "meetings": [
+        {
+          "name": "湖泊-流域水生态环境模拟",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            3,
+            4
+          ],
+          "weekSpec": "2-4,6-12周",
+          "weeks": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "room": "B101"
+        }
+      ]
+    },
+    {
+      "id": "085403P3003",
+      "name": "科学文献与数据检索",
+      "englishName": "Sciencetific Information Retrive",
+      "code": "280223085403P3003",
+      "school": "信息学院",
+      "discipline": "集成电路工程",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "30",
+      "credits": "1.5",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "大开卷",
+      "chiefProfessor": "刘筱敏",
+      "teacher": "张冬荣",
+      "meetings": [
+        {
+          "name": "科学文献与数据检索",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "10-19周",
+          "weeks": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "room": "A101"
+        }
+      ]
+    },
+    {
+      "id": "280223085404P2004",
+      "name": "算法设计与分析",
+      "englishName": "Algorithm Design and Analysis",
+      "code": "280223085404P2004",
+      "school": "南京学院",
+      "discipline": "计算机技术",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "郑朝栋",
+      "meetings": [
+        {
+          "name": "算法设计与分析",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "2-5,7-20周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "room": "A101"
+        },
+        {
+          "name": "算法设计与分析",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "20周",
+          "weeks": [
+            20
+          ],
+          "room": "A101"
+        },
+        {
+          "name": "算法设计与分析",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "6周",
+          "weeks": [
+            6
+          ],
+          "room": "A101"
+        }
+      ]
+    },
+    {
+      "id": "085404P2008",
+      "name": "计算机体系结构",
+      "englishName": "Computer Systems Architecture",
+      "code": "280223085404P2008",
+      "school": "信息学院",
+      "discipline": "计算机技术",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "李栋",
+      "teacher": "曹华伟等",
+      "meetings": [
+        {
+          "name": "计算机体系结构",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "3-5周",
+          "weeks": [
+            3,
+            4,
+            5
+          ],
+          "room": "B203"
+        },
+        {
+          "name": "计算机体系结构",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "2-3,6-17,19-20周",
+          "weeks": [
+            2,
+            3,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            19,
+            20
+          ],
+          "room": "B203"
+        },
+        {
+          "name": "计算机体系结构",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "6周",
+          "weeks": [
+            6
+          ],
+          "room": "B203"
+        }
+      ]
+    },
+    {
+      "id": "085404P3009",
+      "name": "高级计算机网络",
+      "englishName": "Advanced Computer Networks",
+      "code": "280223085404P3009",
+      "school": "信息学院",
+      "discipline": "计算机技术",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "其它（需说明）",
+      "examMethod": "其它（需说明）",
+      "chiefProfessor": "张玉军",
+      "teacher": "武庆华等",
+      "meetings": [
+        {
+          "name": "高级计算机网络",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            2,
+            3,
+            4
           ],
           "weekSpec": "2-4,6-16周",
           "weeks": [
@@ -983,14 +2841,408 @@
             15,
             16
           ],
-          "room": "B105"
+          "room": "B203"
         }
       ]
     },
     {
-      "id": "085410P3002",
-      "name": "图像分析及应用",
-      "code": "085410P3002",
+      "id": "085404P3010",
+      "name": "移动通信原理与关键技术",
+      "englishName": "Principles and Key Technologies of Mobile Communication",
+      "code": "280223085404P3010",
+      "school": "信息学院",
+      "discipline": "计算机技术",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "周一青",
+      "teacher": "周一青",
+      "meetings": [
+        {
+          "name": "移动通信原理与关键技术",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "2-5周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "room": "B203"
+        },
+        {
+          "name": "移动通信原理与关键技术",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "2-3,6-17,19-20周",
+          "weeks": [
+            2,
+            3,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            19,
+            20
+          ],
+          "room": "B203"
+        }
+      ]
+    },
+    {
+      "id": "085404P3011",
+      "name": "云计算技术与工程",
+      "englishName": "Cloud Computing Technology and Engineering",
+      "code": "280223085404P3011",
+      "school": "信息学院",
+      "discipline": "计算机技术",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "其它（需说明）",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "赵晓芳",
+      "teacher": "唐宏伟",
+      "meetings": [
+        {
+          "name": "云计算技术与工程",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "2-5,7-15周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "room": "B203"
+        },
+        {
+          "name": "云计算技术与工程",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "3周",
+          "weeks": [
+            3
+          ],
+          "room": "B203"
+        }
+      ]
+    },
+    {
+      "id": "085405M3006",
+      "name": "智能计算原理及应用",
+      "englishName": "Principles and Applications of AI Computing",
+      "code": "280223085405M3006",
+      "school": "信息学院",
+      "discipline": "软件工程",
+      "type": "专业课",
+      "level": "硕士课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "",
+      "teacher": "冯爱民",
+      "meetings": [
+        {
+          "name": "智能计算原理及应用",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "2-4,6-16周",
+          "weeks": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "A203"
+        }
+      ]
+    },
+    {
+      "id": "085408P2012",
+      "name": "现代控制理论与方法",
+      "englishName": "Modern Control Theory and its Method",
+      "code": "280223085408P2012",
+      "school": "天文与空间科学技术学院",
+      "discipline": "光电信息工程",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "徐胜元等",
+      "meetings": [
+        {
+          "name": "现代控制理论与方法",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            11,
+            12,
+            13
+          ],
+          "weekSpec": "7-16周",
+          "weeks": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "B201"
+        },
+        {
+          "name": "现代控制理论与方法",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            11,
+            12,
+            13
+          ],
+          "weekSpec": "7-16周",
+          "weeks": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "B201"
+        }
+      ]
+    },
+    {
+      "id": "085408P3023（线）",
+      "name": "高光谱成像物理基础与成像模型(线上课，在教室集中上)",
+      "englishName": "Hyperspectral Remote Sensing Physics and Sensors",
+      "code": "280223085408P3023",
+      "school": "能源动力与智能制造学院",
+      "discipline": "光电信息工程",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "限电子信息-光电信息工程专业学生选课",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "黄旻",
+      "teacher": "张桂峰",
+      "meetings": [
+        {
+          "name": "高光谱成像物理基础与成像模型(线上课，在教室集中上)",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "2-5,7-14周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "B204"
+        },
+        {
+          "name": "高光谱成像物理基础与成像模型(线上课，在教室集中上)",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "6周",
+          "weeks": [
+            6
+          ],
+          "room": "B204"
+        }
+      ]
+    },
+    {
+      "id": "085410P2001",
+      "name": "人工智能与机器学习方法",
+      "englishName": "Artificial Intelligence and Machine Learning Methods",
+      "code": "280223085410P2001",
+      "school": "信息学院",
+      "discipline": "人工智能",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "虞剑飞等",
+      "meetings": [
+        {
+          "name": "人工智能与机器学习方法",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "2-3,6-12,14周",
+          "weeks": [
+            2,
+            3,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            14
+          ],
+          "room": "B203"
+        },
+        {
+          "name": "人工智能与机器学习方法",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "2,6-12,14,16周",
+          "weeks": [
+            2,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            14,
+            16
+          ],
+          "room": "B203"
+        }
+      ]
+    },
+    {
+      "id": "085410P3001",
+      "name": "高等数值分析",
+      "englishName": "Advanced Numerical Analysis",
+      "code": "280223085410P3001",
       "school": "信息学院",
       "discipline": "人工智能",
       "type": "专业课",
@@ -1000,6 +3252,91 @@
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "",
+      "teacher": "韦志辉",
+      "meetings": [
+        {
+          "name": "高等数值分析",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "2-5,7-9周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9
+          ],
+          "room": "A101"
+        },
+        {
+          "name": "高等数值分析",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            7,
+            8,
+            9
+          ],
+          "weekSpec": "2-4,6-8周",
+          "weeks": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8
+          ],
+          "room": "A101"
+        },
+        {
+          "name": "高等数值分析",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "3周",
+          "weeks": [
+            3
+          ],
+          "room": "A101"
+        }
+      ]
+    },
+    {
+      "id": "085410P3002",
+      "name": "图像分析及应用",
+      "englishName": "Image Analysis and Applications",
+      "code": "280223085410P3002",
+      "school": "信息学院",
+      "discipline": "人工智能",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "练智超等",
       "meetings": [
         {
           "name": "图像分析及应用",
@@ -1032,11 +3369,12 @@
       ]
     },
     {
-      "id": "090301P2006",
-      "name": "土壤与全球变化",
-      "code": "090301P2006",
-      "school": "资源环境与地球科学学院",
-      "discipline": "土壤学",
+      "id": "085601P2003",
+      "name": "固体物理（材料与化工）",
+      "englishName": "Solid State Physics (Materials and Chemical Industry)",
+      "code": "280223085601P2003",
+      "school": "能源动力与智能制造学院",
+      "discipline": "材料工程",
       "type": "专业核心课",
       "level": "硕博通用课程",
       "hours": "40",
@@ -1044,22 +3382,27 @@
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "",
+      "teacher": "邵起越",
       "meetings": [
         {
-          "name": "土壤与全球变化",
-          "day": "周三",
-          "dayIndex": 3,
+          "name": "固体物理（材料与化工）",
+          "day": "周四",
+          "dayIndex": 4,
           "periods": [
-            2,
-            3,
-            4
+            10,
+            11,
+            12
           ],
-          "weekSpec": "2-15周",
+          "weekSpec": "2-4,6-16周",
           "weeks": [
             2,
             3,
             4,
-            5,
             6,
             7,
             8,
@@ -1069,35 +3412,69 @@
             12,
             13,
             14,
-            15
+            15,
+            16
           ],
-          "room": "B103"
+          "room": "B105"
         }
       ]
     },
     {
-      "id": "090301P4001",
-      "name": "土壤与可持续发展",
-      "code": "090301P4001",
-      "school": "资源环境与地球科学学院",
-      "discipline": "土壤学",
-      "type": "研讨课",
+      "id": "085802P2002",
+      "name": "传热学理论及工程应用",
+      "englishName": "Heat Transfer Theory and Engineering Application",
+      "code": "280223085802P2002",
+      "school": "能源动力与智能制造学院",
+      "discipline": "动力工程",
+      "type": "专业核心课",
       "level": "硕博通用课程",
-      "hours": "20",
-      "credits": "1.0",
+      "hours": "60",
+      "credits": "3.0",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "淮秀兰",
+      "teacher": "李勋锋等",
       "meetings": [
         {
-          "name": "土壤与可持续发展",
+          "name": "传热学理论及工程应用",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            8,
+            9
+          ],
+          "weekSpec": "2-5,7-14周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "B205"
+        },
+        {
+          "name": "传热学理论及工程应用",
           "day": "周四",
           "dayIndex": 4,
           "periods": [
             1,
-            2
+            2,
+            3
           ],
-          "weekSpec": "2-4,6-12周",
+          "weekSpec": "2-4,6-14周",
           "weeks": [
             2,
             3,
@@ -1108,7 +3485,261 @@
             9,
             10,
             11,
+            12,
+            13,
+            14
+          ],
+          "room": "B205"
+        }
+      ]
+    },
+    {
+      "id": "085802P2003",
+      "name": "工程流体力学与空气动力学理论及其应用",
+      "englishName": "Theoretical and Applied Engineering Fluid Mechanics and Aerodynamics",
+      "code": "280223085802P2003",
+      "school": "能源动力与智能制造学院",
+      "discipline": "动力工程",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "张奕",
+      "meetings": [
+        {
+          "name": "工程流体力学与空气动力学理论及其应用",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "2-5,7-17周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "room": "B105"
+        },
+        {
+          "name": "工程流体力学与空气动力学理论及其应用",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            1,
+            2
+          ],
+          "weekSpec": "2-3,6-17周",
+          "weeks": [
+            2,
+            3,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "room": "B105"
+        },
+        {
+          "name": "工程流体力学与空气动力学理论及其应用",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "3周",
+          "weeks": [
+            3
+          ],
+          "room": "B105"
+        }
+      ]
+    },
+    {
+      "id": "090300P1002",
+      "name": "高等土壤学",
+      "englishName": "Advanced Soil Science",
+      "code": "280223090300P1002",
+      "school": "资源环境与地球科学学院",
+      "discipline": "农业资源与环境",
+      "type": "学科核心课",
+      "level": "硕博通用课程",
+      "hours": "50",
+      "credits": "2.5",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "朱安宁",
+      "teacher": "李九玉",
+      "meetings": [
+        {
+          "name": "高等土壤学",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            10,
+            11,
             12
+          ],
+          "weekSpec": "2-3,6-17,19-20周",
+          "weeks": [
+            2,
+            3,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            19,
+            20
+          ],
+          "room": "B103"
+        }
+      ]
+    },
+    {
+      "id": "090300P1003",
+      "name": "植物营养与施肥",
+      "englishName": "Plant Nutrition and Fertilization",
+      "code": "280223090300P1003",
+      "school": "资源环境与地球科学学院",
+      "discipline": "农业资源与环境",
+      "type": "学科核心课",
+      "level": "硕博通用课程",
+      "hours": "50",
+      "credits": "2.5",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "王火焰",
+      "teacher": "兰平",
+      "meetings": [
+        {
+          "name": "植物营养与施肥",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "2-3,6-17,19-20周",
+          "weeks": [
+            2,
+            3,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            19,
+            20
+          ],
+          "room": "B103"
+        }
+      ]
+    },
+    {
+      "id": "090301P2004",
+      "name": "高等土壤物理学",
+      "englishName": "Advanced Soil Physics",
+      "code": "280223090301P2004",
+      "school": "资源环境与地球科学学院",
+      "discipline": "土壤学",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "50",
+      "credits": "2.5",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "刘建立",
+      "teacher": "赵炳梓等",
+      "meetings": [
+        {
+          "name": "高等土壤物理学",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            7,
+            8,
+            9
+          ],
+          "weekSpec": "2-4,6-19周",
+          "weeks": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
           ],
           "room": "B103"
         }
@@ -1117,7 +3748,8 @@
     {
       "id": "090301P2005",
       "name": "土壤修复学",
-      "code": "090301P2005",
+      "englishName": "Soil Remediation",
+      "code": "280223090301P2005",
       "school": "资源环境与地球科学学院",
       "discipline": "土壤学",
       "type": "专业核心课",
@@ -1127,6 +3759,12 @@
       "term": "秋",
       "plannedTerm": "秋",
       "note": "资源利用与植物保护专业的同学不要选这门课",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "滕应",
+      "teacher": "宋静等",
       "meetings": [
         {
           "name": "土壤修复学",
@@ -1193,55 +3831,12 @@
       ]
     },
     {
-      "id": "070503P6004",
-      "name": "地理信息系统应用实践",
-      "code": "070503P6004",
+      "id": "090301P2006",
+      "name": "土壤与全球变化",
+      "englishName": "Soil and Global Change",
+      "code": "280223090301P2006",
       "school": "资源环境与地球科学学院",
-      "discipline": "地图学与地理信息系统",
-      "type": "实践课",
-      "level": "硕博通用课程",
-      "hours": "40",
-      "credits": "1.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "地理信息系统应用实践",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            7,
-            8,
-            9
-          ],
-          "weekSpec": "2-4,6-16周",
-          "weeks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ],
-          "room": "B101"
-        }
-      ]
-    },
-    {
-      "id": "070502P2001",
-      "name": "城市与区域规划",
-      "code": "070502P2001",
-      "school": "资源环境与地球科学学院",
-      "discipline": "人文地理学",
+      "discipline": "土壤学",
       "type": "专业核心课",
       "level": "硕博通用课程",
       "hours": "40",
@@ -1249,218 +3844,23 @@
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "丁维新",
+      "teacher": "朱春梧",
       "meetings": [
         {
-          "name": "城市与区域规划",
-          "day": "周一",
-          "dayIndex": 1,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "10-13周",
-          "weeks": [
-            10,
-            11,
-            12,
-            13
-          ],
-          "room": "B101"
-        },
-        {
-          "name": "城市与区域规划",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "2-3,6-13周",
-          "weeks": [
-            2,
-            3,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "room": "B101"
-        }
-      ]
-    },
-    {
-      "id": "070502M2002",
-      "name": "城镇化与城市地理学",
-      "code": "070502M2002",
-      "school": "资源环境与地球科学学院",
-      "discipline": "人文地理学",
-      "type": "专业核心课",
-      "level": "硕士课程",
-      "hours": "40",
-      "credits": "2",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "城镇化与城市地理学",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            2,
-            3,
-            4
-          ],
-          "weekSpec": "2-4,6-16周",
-          "weeks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ],
-          "room": "A201"
-        }
-      ]
-    },
-    {
-      "id": "080402P4001",
-      "name": "多波段天文观测与数据处理方法",
-      "code": "080402P4001",
-      "school": "天文与空间科学技术学院",
-      "discipline": "测试计量技术及仪器",
-      "type": "研讨课",
-      "level": "硕博通用课程",
-      "hours": "20",
-      "credits": "1.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "多波段天文观测与数据处理方法",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "13-17,19-20周",
-          "weeks": [
-            13,
-            14,
-            15,
-            16,
-            17,
-            19,
-            20
-          ],
-          "room": "B201"
-        }
-      ]
-    },
-    {
-      "id": "070401P3005",
-      "name": "大数据天文光谱分析",
-      "code": "070401P3005",
-      "school": "天文与空间科学技术学院",
-      "discipline": "天体物理",
-      "type": "专业课",
-      "level": "硕博通用课程",
-      "hours": "40",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "大数据天文光谱分析",
+          "name": "土壤与全球变化",
           "day": "周三",
           "dayIndex": 3,
           "periods": [
-            8,
-            9
-          ],
-          "weekSpec": "2-12周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ],
-          "room": "B201"
-        },
-        {
-          "name": "大数据天文光谱分析",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            1,
-            2
-          ],
-          "weekSpec": "2-3,6-12周",
-          "weeks": [
-            2,
-            3,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ],
-          "room": "B201"
-        }
-      ]
-    },
-    {
-      "id": "0704Z1P3002",
-      "name": "天文光子学",
-      "code": "0704Z1P3002",
-      "school": "天文与空间科学技术学院",
-      "discipline": "天文技术与方法",
-      "type": "专业课",
-      "level": "硕博通用课程",
-      "hours": "60",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "天文光子学",
-          "day": "周一",
-          "dayIndex": 1,
-          "periods": [
             2,
             3,
             4
           ],
-          "weekSpec": "2-5,7-19周",
+          "weekSpec": "2-5,7-15周",
           "weeks": [
             2,
             3,
@@ -1473,309 +3873,35 @@
             11,
             12,
             13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19
-          ],
-          "room": "B201"
-        },
-        {
-          "name": "天文光子学",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            2,
-            3,
-            4
-          ],
-          "weekSpec": "17-19周",
-          "weeks": [
-            17,
-            18,
-            19
-          ],
-          "room": "B201"
-        }
-      ]
-    },
-    {
-      "id": "070401P3004",
-      "name": "天文写作",
-      "code": "070401P3004",
-      "school": "天文与空间科学技术学院",
-      "discipline": "天体物理",
-      "type": "专业课",
-      "level": "硕博通用课程",
-      "hours": "40",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "天文写作",
-          "day": "周三",
-          "dayIndex": 3,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "2-13周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "room": "B201"
-        },
-        {
-          "name": "天文写作",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            2,
-            3,
-            4
-          ],
-          "weekSpec": "14-15周",
-          "weeks": [
             14,
             15
           ],
-          "room": "B201"
-        }
-      ]
-    },
-    {
-      "id": "080402P2003",
-      "name": "天文参考系",
-      "code": "080402P2003",
-      "school": "天文与空间科学技术学院",
-      "discipline": "测试计量技术及仪器",
-      "type": "专业核心课",
-      "level": "硕博通用课程",
-      "hours": "60",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "天文参考系",
-          "day": "周一",
-          "dayIndex": 1,
-          "periods": [
-            6,
-            7,
-            8
-          ],
-          "weekSpec": "10-20周",
-          "weeks": [
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ],
-          "room": "B201"
+          "room": "B103"
         },
         {
-          "name": "天文参考系",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            6,
-            7,
-            8
-          ],
-          "weekSpec": "2-3,6-12周",
-          "weeks": [
-            2,
-            3,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ],
-          "room": "B201"
-        }
-      ]
-    },
-    {
-      "id": "080401P2001",
-      "name": "天文望远镜结构",
-      "code": "080401P2001",
-      "school": "天文与空间科学技术学院",
-      "discipline": "精密仪器及机械",
-      "type": "专业核心课",
-      "level": "硕博通用课程",
-      "hours": "60",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "天文望远镜结构",
-          "day": "周二",
-          "dayIndex": 2,
-          "periods": [
-            2
-          ],
-          "weekSpec": "2-10周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ],
-          "room": "B201"
-        },
-        {
-          "name": "天文望远镜结构",
-          "day": "周二",
-          "dayIndex": 2,
-          "periods": [
-            3,
-            4
-          ],
-          "weekSpec": "2-5,7-10周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9,
-            10
-          ],
-          "room": "B201"
-        },
-        {
-          "name": "天文望远镜结构",
-          "day": "周四",
-          "dayIndex": 4,
+          "name": "土壤与全球变化",
+          "day": "周六",
+          "dayIndex": 6,
           "periods": [
             2,
             3,
             4
           ],
-          "weekSpec": "2-4,6-13周",
+          "weekSpec": "6周",
           "weeks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
+            6
           ],
-          "room": "B201"
+          "room": "B103"
         }
       ]
     },
     {
-      "id": "0704Z1P2004",
-      "name": "天文终端科学仪器",
-      "code": "0704Z1P2004",
-      "school": "天文与空间科学技术学院",
-      "discipline": "天文技术与方法",
-      "type": "专业核心课",
-      "level": "硕博通用课程",
-      "hours": "60",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "天文终端科学仪器",
-          "day": "周二",
-          "dayIndex": 2,
-          "periods": [
-            2,
-            3,
-            4
-          ],
-          "weekSpec": "11-19周",
-          "weeks": [
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19
-          ],
-          "room": "B205"
-        },
-        {
-          "name": "天文终端科学仪器",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            7,
-            8,
-            9
-          ],
-          "weekSpec": "9-19周",
-          "weeks": [
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19
-          ],
-          "room": "B205"
-        }
-      ]
-    },
-    {
-      "id": "070903P3002",
-      "name": "孢粉学",
-      "code": "070903P3002",
+      "id": "090301P3002",
+      "name": "现代仪器分析",
+      "englishName": "Modern Instrumental Analysis",
+      "code": "280223090301P3002",
       "school": "资源环境与地球科学学院",
-      "discipline": "古生物学与地层学",
+      "discipline": "土壤学",
       "type": "专业课",
       "level": "硕博通用课程",
       "hours": "40",
@@ -1783,212 +3909,21 @@
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "唐昊冶",
+      "teacher": "相雷雷",
       "meetings": [
         {
-          "name": "孢粉学",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            10,
-            11,
-            12
-          ],
-          "weekSpec": "2,4,6-16周",
-          "weeks": [
-            2,
-            4,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ],
-          "room": "A202"
-        },
-        {
-          "name": "孢粉学",
-          "day": "周六",
-          "dayIndex": 6,
-          "periods": [
-            1,
-            2,
-            3
-          ],
-          "weekSpec": "9周",
-          "weeks": [
-            9
-          ],
-          "room": "户外实践"
-        }
-      ]
-    },
-    {
-      "id": "120500PB002",
-      "name": "学术道德与学术写作规范1班",
-      "code": "120500PB002",
-      "school": "公共课",
-      "discipline": "图书情报与档案管理",
-      "type": "公共必修课",
-      "level": "硕博通用课程",
-      "hours": "20",
-      "credits": "1.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "学术道德与学术写作规范1班",
-          "day": "周一",
-          "dayIndex": 1,
-          "periods": [
-            7,
-            8,
-            9
-          ],
-          "weekSpec": "2-5,7-9周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9
-          ],
-          "room": "图书馆A407"
-        }
-      ]
-    },
-    {
-      "id": "120500PB002",
-      "name": "学术道德与学术写作规范2班",
-      "code": "120500PB002",
-      "school": "公共课",
-      "discipline": "图书情报与档案管理",
-      "type": "公共必修课",
-      "level": "硕博通用课程",
-      "hours": "20",
-      "credits": "1.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "学术道德与学术写作规范2班",
-          "day": "周一",
-          "dayIndex": 1,
-          "periods": [
-            10,
-            11,
-            12
-          ],
-          "weekSpec": "2-5,7-9周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9
-          ],
-          "room": "图书馆A407"
-        }
-      ]
-    },
-    {
-      "id": "125601PB001",
-      "name": "工程伦理",
-      "code": "125601PB001",
-      "school": "公共课",
-      "discipline": "工程管理",
-      "type": "公共必修课",
-      "level": "硕博通用课程",
-      "hours": "20",
-      "credits": "1.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "工程伦理",
-          "day": "周三",
-          "dayIndex": 3,
-          "periods": [
-            10,
-            11,
-            12
-          ],
-          "weekSpec": "2-8周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ],
-          "room": "图书馆A421"
-        }
-      ]
-    },
-    {
-      "id": "085802P2003",
-      "name": "工程流体力学与空气动力学理论及其应用",
-      "code": "085802P2003",
-      "school": "能源动力与智能制造学院",
-      "discipline": "动力工程",
-      "type": "专业核心课",
-      "level": "硕博通用课程",
-      "hours": "60",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "工程流体力学与空气动力学理论及其应用",
-          "day": "周二",
-          "dayIndex": 2,
-          "periods": [
-            5,
-            6
-          ],
-          "weekSpec": "2-17周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17
-          ],
-          "room": "B105"
-        },
-        {
-          "name": "工程流体力学与空气动力学理论及其应用",
+          "name": "现代仪器分析",
           "day": "周五",
           "dayIndex": 5,
           "periods": [
-            1,
-            2
+            5,
+            6,
+            7
           ],
           "weekSpec": "2-3,6-17周",
           "weeks": [
@@ -2007,83 +3942,40 @@
             16,
             17
           ],
-          "room": "B105"
+          "room": "B103"
         }
       ]
     },
     {
-      "id": "081201P2001",
-      "name": "并行处理",
-      "code": "081201P2001",
-      "school": "工业人工智能研究所",
-      "discipline": "计算机系统结构",
-      "type": "专业核心课",
-      "level": "硕博通用课程",
-      "hours": "60",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "并行处理",
-          "day": "周二",
-          "dayIndex": 2,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "2-20周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ],
-          "room": "B203"
-        }
-      ]
-    },
-    {
-      "id": "085703M2001",
-      "name": "应用地球化学",
-      "code": "085703M2001",
+      "id": "090301P4001",
+      "name": "土壤与可持续发展",
+      "englishName": "Soil and Sustainable Dvelopment",
+      "code": "280223090301P4001",
       "school": "资源环境与地球科学学院",
-      "discipline": "地质工程",
-      "type": "专业核心课",
-      "level": "硕士课程",
-      "hours": "40",
-      "credits": "2.0",
+      "discipline": "土壤学",
+      "type": "研讨课",
+      "level": "硕博通用课程",
+      "hours": "20",
+      "credits": "1.0",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讨论为主",
+      "examMethod": "读书报告",
+      "chiefProfessor": "颜晓元",
+      "teacher": "夏永秋",
       "meetings": [
         {
-          "name": "应用地球化学",
+          "name": "土壤与可持续发展",
           "day": "周四",
           "dayIndex": 4,
           "periods": [
-            7,
-            8,
-            9
+            1,
+            2
           ],
-          "weekSpec": "2-4,6-16周",
+          "weekSpec": "2-4,6-12周",
           "weeks": [
             2,
             3,
@@ -2092,71 +3984,21 @@
             7,
             8,
             9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ],
-          "room": "A201"
-        }
-      ]
-    },
-    {
-      "id": "070500M1001",
-      "name": "当代人文与经济地理学",
-      "code": "070500M1001",
-      "school": "资源环境与地球科学学院",
-      "discipline": "地理学",
-      "type": "学科核心课",
-      "level": "硕士课程",
-      "hours": "50",
-      "credits": "2.5",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "当代人文与经济地理学",
-          "day": "周三",
-          "dayIndex": 3,
-          "periods": [
             10,
             11,
             12
           ],
-          "weekSpec": "2-18周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ],
-          "room": "B101"
+          "room": "B103"
         }
       ]
     },
     {
-      "id": "070903P3001",
-      "name": "微体古生物学",
-      "code": "070903P3001",
+      "id": "090302P3001",
+      "name": "现代新型肥料学",
+      "englishName": "Advanced Fertilizer Science and Technology",
+      "code": "280223090302P3001",
       "school": "资源环境与地球科学学院",
-      "discipline": "古生物学与地层学",
+      "discipline": "植物营养学",
       "type": "专业课",
       "level": "硕博通用课程",
       "hours": "40",
@@ -2164,251 +4006,28 @@
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "杜昌文",
+      "teacher": "王一明",
       "meetings": [
         {
-          "name": "微体古生物学",
-          "day": "周二",
-          "dayIndex": 2,
-          "periods": [
-            8,
-            9
-          ],
-          "weekSpec": "3-13周",
-          "weeks": [
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "room": "A202"
-        },
-        {
-          "name": "微体古生物学",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            7,
-            8
-          ],
-          "weekSpec": "3,6-13周",
-          "weeks": [
-            3,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "room": "A202"
-        }
-      ]
-    },
-    {
-      "id": "040300PX014",
-      "name": "排球",
-      "code": "040300PX014",
-      "school": "公共课",
-      "discipline": "体育学",
-      "type": "公共选修课",
-      "level": "硕博通用课程",
-      "hours": "30",
-      "credits": "0.5",
-      "term": "秋",
-      "plannedTerm": "秋春",
-      "note": "",
-      "meetings": [
-        {
-          "name": "排球",
-          "day": "周一",
-          "dayIndex": 1,
-          "periods": [
-            7,
-            8
-          ],
-          "weekSpec": "2-5,7-17周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17
-          ],
-          "room": "排球场"
-        }
-      ]
-    },
-    {
-      "id": "070501P4005",
-      "name": "数据挖掘与可视化-R语言实践",
-      "code": "070501P4005",
-      "school": "资源环境与地球科学学院",
-      "discipline": "自然地理学",
-      "type": "研讨课",
-      "level": "硕博通用课程",
-      "hours": "20",
-      "credits": "1.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "数据挖掘与可视化-R语言实践",
+          "name": "现代新型肥料学",
           "day": "周三",
           "dayIndex": 3,
-          "periods": [
-            5,
-            6
-          ],
-          "weekSpec": "2-11周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ],
-          "room": "B101"
-        }
-      ]
-    },
-    {
-      "id": "030500MB001",
-      "name": "新时代中国特色社会主义理论与实践1班",
-      "code": "030500MB001",
-      "school": "公共课",
-      "discipline": "马克思主义理论",
-      "type": "公共必修课",
-      "level": "硕士课程",
-      "hours": "36",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "新时代中国特色社会主义理论与实践1班",
-          "day": "周二",
-          "dayIndex": 2,
-          "periods": [
-            2,
-            3,
-            4
-          ],
-          "weekSpec": "2-13周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "room": "图书馆A407"
-        }
-      ]
-    },
-    {
-      "id": "030500MB001",
-      "name": "新时代中国特色社会主义理论与实践2班",
-      "code": "030500MB001",
-      "school": "公共课",
-      "discipline": "马克思主义理论",
-      "type": "公共必修课",
-      "level": "硕士课程",
-      "hours": "36",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "新时代中国特色社会主义理论与实践2班",
-          "day": "周二",
-          "dayIndex": 2,
           "periods": [
             5,
             6,
             7
           ],
-          "weekSpec": "2-13周",
+          "weekSpec": "2-5,7-15周",
           "weeks": [
             2,
             3,
             4,
             5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "room": "图书馆A407"
-        }
-      ]
-    },
-    {
-      "id": "085405M3006",
-      "name": "智能计算原理及应用",
-      "code": "085405M3006",
-      "school": "信息学院",
-      "discipline": "软件工程",
-      "type": "专业课",
-      "level": "硕士课程",
-      "hours": "40",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "智能计算原理及应用",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            2,
-            3,
-            4
-          ],
-          "weekSpec": "2-4,6-16周",
-          "weeks": [
-            2,
-            3,
-            4,
-            6,
             7,
             8,
             9,
@@ -2417,54 +4036,32 @@
             12,
             13,
             14,
-            15,
-            16
+            15
           ],
-          "room": "A203"
-        }
-      ]
-    },
-    {
-      "id": "070301P4002",
-      "name": "材料表征基础",
-      "code": "070301P4002",
-      "school": "能源动力与智能制造学院",
-      "discipline": "无机化学",
-      "type": "研讨课",
-      "level": "硕博通用课程",
-      "hours": "20",
-      "credits": "1.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
+          "room": "B103"
+        },
         {
-          "name": "材料表征基础",
-          "day": "周五",
-          "dayIndex": 5,
+          "name": "现代新型肥料学",
+          "day": "周六",
+          "dayIndex": 6,
           "periods": [
-            7,
-            8,
-            9
-          ],
-          "weekSpec": "2-3,6-10周",
-          "weeks": [
-            2,
-            3,
+            5,
             6,
-            7,
-            8,
-            9,
-            10
+            7
           ],
-          "room": "B105"
+          "weekSpec": "6周",
+          "weeks": [
+            6
+          ],
+          "room": "B103"
         }
       ]
     },
     {
       "id": "095132M2001（线）",
-      "name": "植物营养与全球变化(线)",
-      "code": "095132M2001（线）",
+      "name": "植物营养与全球变化(线上课，在教室集中上)",
+      "englishName": "Plant Nutrition and Global Change",
+      "code": "280223095132M2001",
       "school": "资源环境与地球科学学院",
       "discipline": "资源利用与植物保护",
       "type": "专业核心课",
@@ -2474,9 +4071,15 @@
       "term": "秋",
       "plannedTerm": "秋",
       "note": "限资源利用与植物保护专业学生选课",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "朱军涛",
+      "teacher": "宗宁",
       "meetings": [
         {
-          "name": "植物营养与全球变化(线)",
+          "name": "植物营养与全球变化(线上课，在教室集中上)",
           "day": "周二",
           "dayIndex": 2,
           "periods": [
@@ -2509,32 +4112,372 @@
       ]
     },
     {
-      "id": "090300P1003",
-      "name": "植物营养与施肥",
-      "code": "090300P1003",
-      "school": "资源环境与地球科学学院",
-      "discipline": "农业资源与环境",
-      "type": "学科核心课",
+      "id": "100500PX001",
+      "name": "中医与保健",
+      "englishName": "Introduction to Meridians and Health Care",
+      "code": "280223100500PX001",
+      "school": "公共课",
+      "discipline": "中医学",
+      "type": "公共选修课",
       "level": "硕博通用课程",
-      "hours": "50",
-      "credits": "2.5",
+      "hours": "30",
+      "credits": "1.0",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "200",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "",
+      "teacher": "欧阳钢",
       "meetings": [
         {
-          "name": "植物营养与施肥",
-          "day": "周五",
-          "dayIndex": 5,
+          "name": "中医与保健",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "2-5,7-11周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "room": "图书馆A421"
+        },
+        {
+          "name": "中医与保健",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "3周",
+          "weeks": [
+            3
+          ],
+          "room": "图书馆A421"
+        }
+      ]
+    },
+    {
+      "id": "120500PB002",
+      "name": "学术道德与学术写作规范1班",
+      "englishName": "Academic Ethics and Writing Norms",
+      "code": "280223120500PB002-01",
+      "school": "公共课",
+      "discipline": "信息资源管理",
+      "type": "公共必修课",
+      "level": "硕博通用课程",
+      "hours": "20",
+      "credits": "1.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "300",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "大开卷",
+      "chiefProfessor": "",
+      "teacher": "刘海龙",
+      "meetings": [
+        {
+          "name": "学术道德与学术写作规范1班",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            7,
+            8,
+            9
+          ],
+          "weekSpec": "2-5,7-9周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9
+          ],
+          "room": "图书馆A407"
+        }
+      ]
+    },
+    {
+      "id": "120500PB002",
+      "name": "学术道德与学术写作规范2班",
+      "englishName": "Academic Ethics and Writing Norms",
+      "code": "280223120500PB002-02",
+      "school": "公共课",
+      "discipline": "信息资源管理",
+      "type": "公共必修课",
+      "level": "硕博通用课程",
+      "hours": "20",
+      "credits": "1.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "300",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "大开卷",
+      "chiefProfessor": "",
+      "teacher": "刘海龙",
+      "meetings": [
+        {
+          "name": "学术道德与学术写作规范2班",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "2-5,7-9周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9
+          ],
+          "room": "图书馆A407"
+        }
+      ]
+    },
+    {
+      "id": "125601PB001",
+      "name": "工程伦理",
+      "englishName": "Engineering Ethics",
+      "code": "280223125601PB001",
+      "school": "公共课",
+      "discipline": "工程管理",
+      "type": "公共必修课",
+      "level": "硕博通用课程",
+      "hours": "20",
+      "credits": "1.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "",
+      "teacher": "王庆生",
+      "meetings": [
+        {
+          "name": "工程伦理",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "2-5,7-8周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8
+          ],
+          "room": "图书馆A421"
+        },
+        {
+          "name": "工程伦理",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "6周",
+          "weeks": [
+            6
+          ],
+          "room": "图书馆A421"
+        }
+      ]
+    },
+    {
+      "id": "030500MB001",
+      "name": "新时代中国特色社会主义理论与实践1班",
+      "englishName": "Theory and Practice of Socialism with Chinese Characteristics in the New Era",
+      "code": "280223030500MB001-01",
+      "school": "公共课",
+      "discipline": "马克思主义理论",
+      "type": "公共必修课",
+      "level": "硕士课程",
+      "hours": "36",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "251",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "大开卷",
+      "chiefProfessor": "",
+      "teacher": "梁德友",
+      "meetings": [
+        {
+          "name": "新时代中国特色社会主义理论与实践1班",
+          "day": "周二",
+          "dayIndex": 2,
           "periods": [
             2,
             3,
             4
           ],
-          "weekSpec": "2-3,6-17,19-20周",
+          "weekSpec": "2-5,7-13周",
           "weeks": [
             2,
             3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "room": "图书馆A407"
+        },
+        {
+          "name": "新时代中国特色社会主义理论与实践1班",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "3周",
+          "weeks": [
+            3
+          ],
+          "room": "图书馆A407"
+        }
+      ]
+    },
+    {
+      "id": "030500MB001",
+      "name": "新时代中国特色社会主义理论与实践2班",
+      "englishName": "Theory and Practice of Socialism with Chinese Characteristics in the New Era",
+      "code": "280223030500MB001-02",
+      "school": "公共课",
+      "discipline": "马克思主义理论",
+      "type": "公共必修课",
+      "level": "硕士课程",
+      "hours": "36",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "251",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "大开卷",
+      "chiefProfessor": "",
+      "teacher": "梁德友",
+      "meetings": [
+        {
+          "name": "新时代中国特色社会主义理论与实践2班",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "2-5,7-13周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "room": "图书馆A407"
+        },
+        {
+          "name": "新时代中国特色社会主义理论与实践2班",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "3周",
+          "weeks": [
+            3
+          ],
+          "room": "图书馆A407"
+        }
+      ]
+    },
+    {
+      "id": "050200MB001",
+      "name": "英语A-01班-学术读写",
+      "englishName": "MS English Program",
+      "code": "280223050200MB001-01",
+      "school": "公共课",
+      "discipline": "外国语言文学",
+      "type": "公共必修课",
+      "level": "硕士课程",
+      "hours": "32",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "35",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "张卫东",
+      "meetings": [
+        {
+          "name": "英语A-01班-学术读写",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "2-4,6-18周",
+          "weeks": [
+            2,
+            3,
+            4,
             6,
             7,
             8,
@@ -2547,99 +4490,303 @@
             15,
             16,
             17,
-            19,
-            20
+            18
           ],
-          "room": "B103"
+          "room": "B201"
         }
       ]
     },
     {
-      "id": "083001P3009",
-      "name": "水域环境微生物学",
-      "code": "083001P3009",
-      "school": "资源环境与地球科学学院",
-      "discipline": "环境科学与工程-环境科学",
-      "type": "专业课",
-      "level": "硕博通用课程",
-      "hours": "40",
-      "credits": "2.0",
+      "id": "050200MB001",
+      "name": "英语A-02班-学术读写",
+      "englishName": "MS English Program",
+      "code": "280223050200MB001-02",
+      "school": "公共课",
+      "discipline": "外国语言文学",
+      "type": "公共必修课",
+      "level": "硕士课程",
+      "hours": "32",
+      "credits": "3.0",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "35",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "张卫东",
       "meetings": [
         {
-          "name": "水域环境微生物学",
-          "day": "周二",
-          "dayIndex": 2,
+          "name": "英语A-02班-学术读写",
+          "day": "周四",
+          "dayIndex": 4,
           "periods": [
-            8,
-            9
+            7,
+            8
           ],
-          "weekSpec": "2-12周",
+          "weekSpec": "2-4,6-18周",
           "weeks": [
             2,
             3,
             4,
-            5,
             6,
             7,
             8,
             9,
             10,
             11,
-            12
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
           ],
-          "room": "B101"
-        },
-        {
-          "name": "水域环境微生物学",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            8,
-            9
-          ],
-          "weekSpec": "2-3,6-12周",
-          "weeks": [
-            2,
-            3,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ],
-          "room": "B101"
+          "room": "B201"
         }
       ]
     },
     {
-      "id": "070503P2003",
-      "name": "水文遥感与全球变化",
-      "code": "070503P2003",
-      "school": "资源环境与地球科学学院",
-      "discipline": "地图学与地理信息系统",
-      "type": "专业核心课",
-      "level": "硕博通用课程",
-      "hours": "40",
-      "credits": "2.0",
+      "id": "050200MB001",
+      "name": "英语A-03班-学术读写",
+      "englishName": "MS English Program",
+      "code": "280223050200MB001-03",
+      "school": "公共课",
+      "discipline": "外国语言文学",
+      "type": "公共必修课",
+      "level": "硕士课程",
+      "hours": "32",
+      "credits": "3.0",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "35",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "王征",
       "meetings": [
         {
-          "name": "水文遥感与全球变化",
-          "day": "周一",
-          "dayIndex": 1,
+          "name": "英语A-03班-学术读写",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "2-4,6-18周",
+          "weeks": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "room": "B203"
+        }
+      ]
+    },
+    {
+      "id": "050200MB001",
+      "name": "英语A-04班-学术读写",
+      "englishName": "MS English Program",
+      "code": "280223050200MB001-04",
+      "school": "公共课",
+      "discipline": "外国语言文学",
+      "type": "公共必修课",
+      "level": "硕士课程",
+      "hours": "32",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "35",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "王征",
+      "meetings": [
+        {
+          "name": "英语A-04班-学术读写",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            7,
+            8
+          ],
+          "weekSpec": "2-4,6-18周",
+          "weeks": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "room": "B203"
+        }
+      ]
+    },
+    {
+      "id": "050200MB001",
+      "name": "英语A-05班-学术读写",
+      "englishName": "MS English Program",
+      "code": "280223050200MB001-05",
+      "school": "公共课",
+      "discipline": "外国语言文学",
+      "type": "公共必修课",
+      "level": "硕士课程",
+      "hours": "32",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "35",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "景晓平",
+      "meetings": [
+        {
+          "name": "英语A-05班-学术读写",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "2-4,6-18周",
+          "weeks": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "room": "A203"
+        }
+      ]
+    },
+    {
+      "id": "050200MB001",
+      "name": "英语A-06班-学术读写",
+      "englishName": "MS English Program",
+      "code": "280223050200MB001-06",
+      "school": "公共课",
+      "discipline": "外国语言文学",
+      "type": "公共必修课",
+      "level": "硕士课程",
+      "hours": "32",
+      "credits": "3.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "35",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "景晓平",
+      "meetings": [
+        {
+          "name": "英语A-06班-学术读写",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            7,
+            8
+          ],
+          "weekSpec": "2-4,6-18周",
+          "weeks": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "room": "A203"
+        }
+      ]
+    },
+    {
+      "id": "070500M1001",
+      "name": "当代人文与经济地理学",
+      "englishName": "Contemporary Human and Economic Geography",
+      "code": "280223070500M1001",
+      "school": "资源环境与地球科学学院",
+      "discipline": "地理学",
+      "type": "学科核心课",
+      "level": "硕士课程",
+      "hours": "50",
+      "credits": "2.5",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "袁丰",
+      "teacher": "胡晓辉",
+      "meetings": [
+        {
+          "name": "当代人文与经济地理学",
+          "day": "周三",
+          "dayIndex": 3,
           "periods": [
             10,
             11,
             12
           ],
-          "weekSpec": "2-5,7-16周",
+          "weekSpec": "2-5,7-18周",
           "weeks": [
             2,
             3,
@@ -2654,34 +4801,58 @@
             13,
             14,
             15,
-            16
+            16,
+            17,
+            18
+          ],
+          "room": "B101"
+        },
+        {
+          "name": "当代人文与经济地理学",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "6周",
+          "weeks": [
+            6
           ],
           "room": "B101"
         }
       ]
     },
     {
-      "id": "085701M3007",
-      "name": "水生态评价与修复",
-      "code": "085701M3007",
+      "id": "070502M2002",
+      "name": "城镇化与城市地理学",
+      "englishName": "Urbanization and Urban Geography",
+      "code": "280223070502M2002",
       "school": "资源环境与地球科学学院",
-      "discipline": "资源与环境-环境工程",
-      "type": "专业课",
+      "discipline": "人文地理学",
+      "type": "专业核心课",
       "level": "硕士课程",
       "hours": "40",
       "credits": "2.0",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "",
+      "teacher": "陆玉麒等",
       "meetings": [
         {
-          "name": "水生态评价与修复",
+          "name": "城镇化与城市地理学",
           "day": "周四",
           "dayIndex": 4,
           "periods": [
-            10,
-            11,
-            12
+            2,
+            3,
+            4
           ],
           "weekSpec": "2-4,6-16周",
           "weeks": [
@@ -2705,155 +4876,41 @@
       ]
     },
     {
-      "id": "085703M2002",
-      "name": "油气资源评价与勘探",
-      "code": "085703M2002",
-      "school": "资源环境与地球科学学院",
-      "discipline": "地质工程",
+      "id": "085407M2002",
+      "name": "现代仪器光学技术",
+      "englishName": "Modern Instrumental Optics",
+      "code": "280223085407M2002",
+      "school": "能源动力与智能制造学院",
+      "discipline": "仪器仪表工程",
       "type": "专业核心课",
       "level": "硕士课程",
-      "hours": "40",
-      "credits": "2.0",
+      "hours": "50",
+      "credits": "2.5",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "杨旭三",
+      "teacher": "谢浩",
       "meetings": [
         {
-          "name": "油气资源评价与勘探",
-          "day": "周一",
-          "dayIndex": 1,
-          "periods": [
-            7,
-            8,
-            9
-          ],
-          "weekSpec": "2-5,7-9周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9
-          ],
-          "room": "A202"
-        },
-        {
-          "name": "油气资源评价与勘探",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            2,
-            3,
-            4
-          ],
-          "weekSpec": "2-4,6-9周",
-          "weeks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8,
-            9
-          ],
-          "room": "A202"
-        }
-      ]
-    },
-    {
-      "id": "070500P1009",
-      "name": "流域地理学",
-      "code": "070500P1009",
-      "school": "资源环境与地球科学学院",
-      "discipline": "地理学/水土保持与荒漠化防治",
-      "type": "学科核心课/专业核心课",
-      "level": "硕博通用课程",
-      "hours": "60",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "流域地理学",
+          "name": "现代仪器光学技术",
           "day": "周二",
           "dayIndex": 2,
           "periods": [
-            10,
-            11,
-            12
-          ],
-          "weekSpec": "2-11周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
             7,
             8,
-            9,
-            10,
-            11
+            9
           ],
-          "room": "B101"
-        },
-        {
-          "name": "流域地理学",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            10,
-            11,
-            12
-          ],
-          "weekSpec": "2-4,6-10周",
-          "weeks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8,
-            9,
-            10
-          ],
-          "room": "B101"
-        }
-      ]
-    },
-    {
-      "id": "0713X2P3005（线）",
-      "name": "流域生态学(线)",
-      "code": "0713X2P3005（线）",
-      "school": "资源环境与地球科学学院",
-      "discipline": "城市与区域生态学/水土保持与荒漠化防治",
-      "type": "专业课/专业课",
-      "level": "硕博通用课程",
-      "hours": "40",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "限生态学、水土保持与荒漠化防治专业学生选课",
-      "meetings": [
-        {
-          "name": "流域生态学(线)",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "2-17周",
+          "weekSpec": "2-5,7-18周",
           "weeks": [
             2,
             3,
             4,
             5,
-            6,
             7,
             8,
             9,
@@ -2864,173 +4921,35 @@
             14,
             15,
             16,
-            17
+            17,
+            18
           ],
-          "room": "B205"
-        }
-      ]
-    },
-    {
-      "id": "083001P4005",
-      "name": "湖泊-流域水生态环境模拟",
-      "code": "083001P4005",
-      "school": "资源环境与地球科学学院",
-      "discipline": "环境科学与工程-环境科学",
-      "type": "研讨课",
-      "level": "硕博通用课程",
-      "hours": "20",
-      "credits": "1.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
+          "room": "B105"
+        },
         {
-          "name": "湖泊-流域水生态环境模拟",
-          "day": "周四",
-          "dayIndex": 4,
+          "name": "现代仪器光学技术",
+          "day": "周日",
+          "dayIndex": 7,
           "periods": [
-            3,
-            4
-          ],
-          "weekSpec": "2-4,6-12周",
-          "weeks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ],
-          "room": "B101"
-        }
-      ]
-    },
-    {
-      "id": "085701M4005",
-      "name": "湖泊污染物行为效应与消减",
-      "code": "085701M4005",
-      "school": "资源环境与地球科学学院",
-      "discipline": "资源与环境-环境工程",
-      "type": "研讨课",
-      "level": "硕士课程",
-      "hours": "20",
-      "credits": "1.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "湖泊污染物行为效应与消减",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            1,
-            2
-          ],
-          "weekSpec": "2-3,6-13周",
-          "weeks": [
-            2,
-            3,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "room": "B101"
-        }
-      ]
-    },
-    {
-      "id": "070501P2002",
-      "name": "湖泊沉积与环境",
-      "code": "070501P2002",
-      "school": "资源环境与地球科学学院",
-      "discipline": "自然地理学",
-      "type": "专业核心课",
-      "level": "硕博通用课程",
-      "hours": "40",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "湖泊沉积与环境",
-          "day": "周二",
-          "dayIndex": 2,
-          "periods": [
-            2
-          ],
-          "weekSpec": "2-9周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
             7,
             8,
             9
           ],
-          "room": "B101"
-        },
-        {
-          "name": "湖泊沉积与环境",
-          "day": "周二",
-          "dayIndex": 2,
-          "periods": [
-            3,
-            4
-          ],
-          "weekSpec": "2-5,7-9周",
+          "weekSpec": "3周",
           "weeks": [
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9
+            3
           ],
-          "room": "B101"
-        },
-        {
-          "name": "湖泊沉积与环境",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            3,
-            4
-          ],
-          "weekSpec": "2-3,6-11周",
-          "weeks": [
-            2,
-            3,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ],
-          "room": "B101"
+          "room": "B105"
         }
       ]
     },
     {
       "id": "085701M2003",
       "name": "湖泊环境化学",
-      "code": "085701M2003",
+      "englishName": "Lake Environmental Chemistry",
+      "code": "280223085701M2003",
       "school": "资源环境与地球科学学院",
-      "discipline": "资源与环境-环境工程",
+      "discipline": "环境工程",
       "type": "专业核心课",
       "level": "硕士课程",
       "hours": "40",
@@ -3038,6 +4957,12 @@
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "尹洪斌",
+      "teacher": "朱广伟等",
       "meetings": [
         {
           "name": "湖泊环境化学",
@@ -3090,16 +5015,23 @@
     {
       "id": "085701M2004",
       "name": "湖泊环境工程",
-      "code": "085701M2004",
+      "englishName": "Lake Environment Engineering",
+      "code": "280223085701M2004",
       "school": "资源环境与地球科学学院",
-      "discipline": "资源与环境-环境工程",
-      "type": "专业核心科",
+      "discipline": "环境工程",
+      "type": "专业核心课",
       "level": "硕士课程",
       "hours": "40",
       "credits": "2.0",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "江和龙",
+      "teacher": "潘继征",
       "meetings": [
         {
           "name": "湖泊环境工程",
@@ -3110,13 +5042,12 @@
             2,
             3
           ],
-          "weekSpec": "2-15周",
+          "weekSpec": "2-5,7-15周",
           "weeks": [
             2,
             3,
             4,
             5,
-            6,
             7,
             8,
             9,
@@ -3128,1425 +5059,53 @@
             15
           ],
           "room": "B203"
-        }
-      ]
-    },
-    {
-      "id": "085407M2002",
-      "name": "现代仪器光学技术",
-      "code": "085407M2002",
-      "school": "能源动力与智能制造学院",
-      "discipline": "仪器仪表工程",
-      "type": "专业核心课",
-      "level": "硕士课程",
-      "hours": "50",
-      "credits": "2.5",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "现代仪器光学技术",
-          "day": "周二",
-          "dayIndex": 2,
-          "periods": [
-            7,
-            8,
-            9
-          ],
-          "weekSpec": "2-18周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ],
-          "room": "B105"
-        }
-      ]
-    },
-    {
-      "id": "090301P3002",
-      "name": "现代仪器分析",
-      "code": "090301P3002",
-      "school": "资源环境与地球科学学院",
-      "discipline": "土壤学",
-      "type": "专业课",
-      "level": "硕博通用课程",
-      "hours": "40",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "现代仪器分析",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "2-3,6-17周",
-          "weeks": [
-            2,
-            3,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17
-          ],
-          "room": "B103"
-        }
-      ]
-    },
-    {
-      "id": "070903P4003",
-      "name": "现代古生物学",
-      "code": "070903P4003",
-      "school": "资源环境与地球科学学院",
-      "discipline": "古生物学与地层学",
-      "type": "研讨课",
-      "level": "硕博通用课程",
-      "hours": "20",
-      "credits": "1.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "现代古生物学",
-          "day": "周二",
-          "dayIndex": 2,
-          "periods": [
-            3,
-            4
-          ],
-          "weekSpec": "2-5,7-11周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9,
-            10,
-            11
-          ],
-          "room": "A202"
-        }
-      ]
-    },
-    {
-      "id": "085408P2012",
-      "name": "现代控制理论与方法",
-      "code": "085408P2012",
-      "school": "天文与空间科学技术学院",
-      "discipline": "光电信息工程",
-      "type": "专业核心课",
-      "level": "硕博通用课程",
-      "hours": "60",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "现代控制理论与方法",
-          "day": "周二",
-          "dayIndex": 2,
-          "periods": [
-            11,
-            12,
-            13
-          ],
-          "weekSpec": "7-16周",
-          "weeks": [
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ],
-          "room": "B201"
         },
         {
-          "name": "现代控制理论与方法",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            11,
-            12,
-            13
-          ],
-          "weekSpec": "7-16周",
-          "weeks": [
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ],
-          "room": "B201"
-        }
-      ]
-    },
-    {
-      "id": "090302P3001",
-      "name": "现代新型肥料学",
-      "code": "090302P3001",
-      "school": "资源环境与地球科学学院",
-      "discipline": "植物营养学",
-      "type": "专业课",
-      "level": "硕博通用课程",
-      "hours": "40",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "现代新型肥料学",
-          "day": "周三",
-          "dayIndex": 3,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "2-15周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ],
-          "room": "B103"
-        }
-      ]
-    },
-    {
-      "id": "040300PX010",
-      "name": "瑜伽",
-      "code": "040300PX010",
-      "school": "公共课",
-      "discipline": "体育学",
-      "type": "公共选修课",
-      "level": "硕博通用课程",
-      "hours": "30",
-      "credits": "0.5",
-      "term": "秋",
-      "plannedTerm": "秋春",
-      "note": "",
-      "meetings": [
-        {
-          "name": "瑜伽",
-          "day": "周一",
-          "dayIndex": 1,
-          "periods": [
-            7,
-            8
-          ],
-          "weekSpec": "2-5,7-17周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17
-          ],
-          "room": "研创楼205"
-        }
-      ]
-    },
-    {
-      "id": "0713X2P3006（线）",
-      "name": "生态统计分析方法(线)",
-      "code": "0713X2P3006（线）",
-      "school": "资源环境与地球科学学院",
-      "discipline": "城市与区域生态学",
-      "type": "专业课",
-      "level": "硕博通用课程",
-      "hours": "40",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "限生态学专业学生选课",
-      "meetings": [
-        {
-          "name": "生态统计分析方法(线)",
-          "day": "周三",
-          "dayIndex": 3,
-          "periods": [
-            10,
-            11,
-            12
-          ],
-          "weekSpec": "3-19周",
-          "weeks": [
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19
-          ],
-          "room": "B202"
-        }
-      ]
-    },
-    {
-      "id": "040200PX003",
-      "name": "研究生心理健康教育指导",
-      "code": "040200PX003",
-      "school": "公共课",
-      "discipline": "心理学",
-      "type": "公共选修课",
-      "level": "硕博通用课程",
-      "hours": "30",
-      "credits": "1.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "研究生心理健康教育指导",
-          "day": "周三",
-          "dayIndex": 3,
-          "periods": [
-            8,
-            9
-          ],
-          "weekSpec": "2-16周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ],
-          "room": "图书馆A407"
-        }
-      ]
-    },
-    {
-      "id": "050200MB001",
-      "name": "硕士学位英语1班",
-      "code": "050200MB001",
-      "school": "公共课",
-      "discipline": "外国语言文学",
-      "type": "公共必修课",
-      "level": "硕士课程",
-      "hours": "64",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "硕士学位英语1班",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            5,
-            6
-          ],
-          "weekSpec": "2-4,6-18周",
-          "weeks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ],
-          "room": "B201"
-        }
-      ]
-    },
-    {
-      "id": "050200MB001",
-      "name": "硕士学位英语2班",
-      "code": "050200MB001",
-      "school": "公共课",
-      "discipline": "外国语言文学",
-      "type": "公共必修课",
-      "level": "硕士课程",
-      "hours": "64",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "硕士学位英语2班",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            7,
-            8
-          ],
-          "weekSpec": "2-4,6-18周",
-          "weeks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ],
-          "room": "B201"
-        }
-      ]
-    },
-    {
-      "id": "050200MB001",
-      "name": "硕士学位英语3班",
-      "code": "050200MB001",
-      "school": "公共课",
-      "discipline": "外国语言文学",
-      "type": "公共必修课",
-      "level": "硕士课程",
-      "hours": "64",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "硕士学位英语3班",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            5,
-            6
-          ],
-          "weekSpec": "2-4,6-18周",
-          "weeks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ],
-          "room": "B203"
-        }
-      ]
-    },
-    {
-      "id": "050200MB001",
-      "name": "硕士学位英语4班",
-      "code": "050200MB001",
-      "school": "公共课",
-      "discipline": "外国语言文学",
-      "type": "公共必修课",
-      "level": "硕士课程",
-      "hours": "64",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "硕士学位英语4班",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            7,
-            8
-          ],
-          "weekSpec": "2-4,6-18周",
-          "weeks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ],
-          "room": "B203"
-        }
-      ]
-    },
-    {
-      "id": "050200MB001",
-      "name": "硕士学位英语5班",
-      "code": "050200MB001",
-      "school": "公共课",
-      "discipline": "外国语言文学",
-      "type": "公共必修课",
-      "level": "硕士课程",
-      "hours": "64",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "硕士学位英语5班",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            5,
-            6
-          ],
-          "weekSpec": "2-4,6-18周",
-          "weeks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ],
-          "room": "A203"
-        }
-      ]
-    },
-    {
-      "id": "050200MB001",
-      "name": "硕士学位英语6班",
-      "code": "050200MB001",
-      "school": "公共课",
-      "discipline": "外国语言文学",
-      "type": "公共必修课",
-      "level": "硕士课程",
-      "hours": "64",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "硕士学位英语6班",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            7,
-            8
-          ],
-          "weekSpec": "2-4,6-18周",
-          "weeks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ],
-          "room": "A203"
-        }
-      ]
-    },
-    {
-      "id": "085403P3003",
-      "name": "科学文献与数据检索",
-      "code": "085403P3003",
-      "school": "信息学院",
-      "discipline": "集成电路工程",
-      "type": "专业课",
-      "level": "硕博通用课程",
-      "hours": "30",
-      "credits": "1.5",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "科学文献与数据检索",
-          "day": "周一",
-          "dayIndex": 1,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "10-19周",
-          "weeks": [
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19
-          ],
-          "room": "A101"
-        }
-      ]
-    },
-    {
-      "id": "085404P3010",
-      "name": "移动通信原理与关键技术",
-      "code": "085404P3010",
-      "school": "信息学院",
-      "discipline": "计算机技术",
-      "type": "专业课",
-      "level": "硕博通用课程",
-      "hours": "60",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "移动通信原理与关键技术",
-          "day": "周一",
-          "dayIndex": 1,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "2-5周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5
-          ],
-          "room": "B203"
-        },
-        {
-          "name": "移动通信原理与关键技术",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "2-3,6-17,19-20周",
-          "weeks": [
-            2,
-            3,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            19,
-            20
-          ],
-          "room": "B203"
-        }
-      ]
-    },
-    {
-      "id": "085410P2007",
-      "name": "算法设计与分析",
-      "code": "085410P2007",
-      "school": "信息学院",
-      "discipline": "人工智能",
-      "type": "专业核心课",
-      "level": "硕博通用课程",
-      "hours": "60",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "算法设计与分析",
-          "day": "周三",
-          "dayIndex": 3,
-          "periods": [
-            2,
-            3,
-            4
-          ],
-          "weekSpec": "2-20周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ],
-          "room": "A101"
-        },
-        {
-          "name": "算法设计与分析",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            10,
-            11,
-            12
-          ],
-          "weekSpec": "20周",
-          "weeks": [
-            20
-          ],
-          "room": "A101"
-        }
-      ]
-    },
-    {
-      "id": "0805J1P2003",
-      "name": "纳米材料制备科学",
-      "code": "0805J1P2003",
-      "school": "能源动力与智能制造学院",
-      "discipline": "纳米科学与技术",
-      "type": "专业核心课",
-      "level": "硕博通用课程",
-      "hours": "40",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "纳米材料制备科学",
-          "day": "周二",
-          "dayIndex": 2,
-          "periods": [
-            10,
-            11,
-            12
-          ],
-          "weekSpec": "2-15周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ],
-          "room": "B105"
-        }
-      ]
-    },
-    {
-      "id": "082502P2001",
-      "name": "航空发动机与燃气轮机结构设计",
-      "code": "082502P2001",
-      "school": "能源动力与智能制造学院",
-      "discipline": "航空宇航推进理论与工程",
-      "type": "专业核心课",
-      "level": "硕博通用课程",
-      "hours": "50",
-      "credits": "2.5",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "航空发动机与燃气轮机结构设计",
-          "day": "周三",
-          "dayIndex": 3,
-          "periods": [
-            2,
-            3,
-            4
-          ],
-          "weekSpec": "2-18周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ],
-          "room": "B105"
-        }
-      ]
-    },
-    {
-      "id": "0803X1P3003",
-      "name": "计算光学成像技术",
-      "code": "0803X1P3003",
-      "school": "天文与空间科学技术学院",
-      "discipline": "光电成像与传感技术",
-      "type": "专业课",
-      "level": "硕博通用课程",
-      "hours": "40",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "计算光学成像技术",
-          "day": "周一",
-          "dayIndex": 1,
-          "periods": [
-            11,
-            12,
-            13
-          ],
-          "weekSpec": "2-5,7-16周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ],
-          "room": "B201"
-        }
-      ]
-    },
-    {
-      "id": "085404P2008",
-      "name": "计算机体系结构",
-      "code": "085404P2008",
-      "school": "信息学院",
-      "discipline": "计算机技术",
-      "type": "专业核心课",
-      "level": "硕博通用课程",
-      "hours": "60",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "计算机体系结构",
-          "day": "周三",
-          "dayIndex": 3,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "3-6周",
-          "weeks": [
-            3,
-            4,
-            5,
-            6
-          ],
-          "room": "B203"
-        },
-        {
-          "name": "计算机体系结构",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            2,
-            3,
-            4
-          ],
-          "weekSpec": "2-3,6-17,19-20周",
-          "weeks": [
-            2,
-            3,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            19,
-            20
-          ],
-          "room": "B203"
-        }
-      ]
-    },
-    {
-      "id": "081203D2002",
-      "name": "计算机图形计算与分析",
-      "code": "081203D2002",
-      "school": "工业人工智能研究所",
-      "discipline": "计算机应用技术",
-      "type": "专业核心课",
-      "level": "博士课程",
-      "hours": "60",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "计算机图形计算与分析",
-          "day": "周一",
-          "dayIndex": 1,
-          "periods": [
-            10,
-            11,
-            12
-          ],
-          "weekSpec": "2-5,7-20周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ],
-          "room": "B203"
-        }
-      ]
-    },
-    {
-      "id": "070503P2005",
-      "name": "遥感理论与综合应用",
-      "code": "070503P2005",
-      "school": "资源环境与地球科学学院",
-      "discipline": "地图学与地理信息系统",
-      "type": "专业核心课",
-      "level": "硕博通用课程",
-      "hours": "50",
-      "credits": "2.5",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "遥感理论与综合应用",
-          "day": "周三",
-          "dayIndex": 3,
-          "periods": [
-            10,
-            11,
-            12
-          ],
-          "weekSpec": "19周",
-          "weeks": [
-            19
-          ],
-          "room": "B101"
-        },
-        {
-          "name": "遥感理论与综合应用",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            10,
-            11,
-            12
-          ],
-          "weekSpec": "2-3,6-17,19-20周",
-          "weeks": [
-            2,
-            3,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            19,
-            20
-          ],
-          "room": "B101"
-        }
-      ]
-    },
-    {
-      "id": "085408P3023（线）",
-      "name": "高光谱成像物理基础与成像模型(线)",
-      "code": "085408P3023（线）",
-      "school": "能源动力与智能制造学院",
-      "discipline": "光电信息工程",
-      "type": "专业课",
-      "level": "硕博通用课程",
-      "hours": "40",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "限电子信息-光电信息工程专业学生选课",
-      "meetings": [
-        {
-          "name": "高光谱成像物理基础与成像模型(线)",
-          "day": "周三",
-          "dayIndex": 3,
-          "periods": [
-            5,
-            6,
-            7
-          ],
-          "weekSpec": "2-14周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ],
-          "room": "B204"
-        }
-      ]
-    },
-    {
-      "id": "090300P1002",
-      "name": "高等土壤学",
-      "code": "090300P1002",
-      "school": "资源环境与地球科学学院",
-      "discipline": "农业资源与环境",
-      "type": "学科核心课",
-      "level": "硕博通用课程",
-      "hours": "50",
-      "credits": "2.5",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "高等土壤学",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            10,
-            11,
-            12
-          ],
-          "weekSpec": "2-3,6-17,19-20周",
-          "weeks": [
-            2,
-            3,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            19,
-            20
-          ],
-          "room": "B103"
-        }
-      ]
-    },
-    {
-      "id": "090301P2004",
-      "name": "高等土壤物理学",
-      "code": "090301P2004",
-      "school": "资源环境与地球科学学院",
-      "discipline": "土壤学",
-      "type": "专业核心课",
-      "level": "硕博通用课程",
-      "hours": "50",
-      "credits": "2.5",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "高等土壤物理学",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            7,
-            8,
-            9
-          ],
-          "weekSpec": "2-4,6-19周",
-          "weeks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19
-          ],
-          "room": "B103"
-        }
-      ]
-    },
-    {
-      "id": "085410P3001",
-      "name": "高等数值分析",
-      "code": "085410P3001",
-      "school": "信息学院",
-      "discipline": "人工智能",
-      "type": "专业课",
-      "level": "硕博通用课程",
-      "hours": "40",
-      "credits": "2.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "高等数值分析",
-          "day": "周二",
-          "dayIndex": 2,
-          "periods": [
-            2
-          ],
-          "weekSpec": "2-9周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ],
-          "room": "A101"
-        },
-        {
-          "name": "高等数值分析",
-          "day": "周二",
-          "dayIndex": 2,
-          "periods": [
-            3,
-            4
-          ],
-          "weekSpec": "2-5,7-9周",
-          "weeks": [
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            9
-          ],
-          "room": "A101"
-        },
-        {
-          "name": "高等数值分析",
-          "day": "周四",
-          "dayIndex": 4,
-          "periods": [
-            7,
-            8,
-            9
-          ],
-          "weekSpec": "2-4,6-8周",
-          "weeks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8
-          ],
-          "room": "A101"
-        }
-      ]
-    },
-    {
-      "id": "080300P1003",
-      "name": "高等物理光学",
-      "code": "080300P1003",
-      "school": "天文与空间科学技术学院",
-      "discipline": "光学工程",
-      "type": "学科核心课",
-      "level": "硕博通用课程",
-      "hours": "60",
-      "credits": "3.0",
-      "term": "秋",
-      "plannedTerm": "秋",
-      "note": "",
-      "meetings": [
-        {
-          "name": "高等物理光学",
-          "day": "周三",
-          "dayIndex": 3,
+          "name": "湖泊环境工程",
+          "day": "周六",
+          "dayIndex": 6,
           "periods": [
             1,
             2,
             3
           ],
-          "weekSpec": "2-19周",
+          "weekSpec": "6周",
           "weeks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19
+            6
           ],
-          "room": "B201"
-        },
-        {
-          "name": "高等物理光学",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            1,
-            2,
-            3
-          ],
-          "weekSpec": "17,19周",
-          "weeks": [
-            17,
-            19
-          ],
-          "room": "B201"
+          "room": "B203"
         }
       ]
     },
     {
-      "id": "085404P3009",
-      "name": "高级计算机网络",
-      "code": "085404P3009",
-      "school": "信息学院",
-      "discipline": "计算机技术",
+      "id": "085701M3007",
+      "name": "水生态评价与修复",
+      "englishName": "Water Ecological Assessment and Restoration",
+      "code": "280223085701M3007",
+      "school": "资源环境与地球科学学院",
+      "discipline": "环境工程",
       "type": "专业课",
-      "level": "硕博通用课程",
+      "level": "硕士课程",
       "hours": "40",
       "credits": "2.0",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "",
+      "teacher": "于谨磊等",
       "meetings": [
         {
-          "name": "高级计算机网络",
+          "name": "水生态评价与修复",
           "day": "周四",
           "dayIndex": 4,
           "periods": [
-            2,
-            3,
-            4
+            10,
+            11,
+            12
           ],
           "weekSpec": "2-4,6-16周",
           "weeks": [
@@ -4565,7 +5124,486 @@
             15,
             16
           ],
-          "room": "B203"
+          "room": "A201"
+        }
+      ]
+    },
+    {
+      "id": "085701M4005",
+      "name": "湖泊污染物行为效应与消减",
+      "englishName": "Behaviour, Fate and Attenuation of Lake Contaminants",
+      "code": "280223085701M4005",
+      "school": "资源环境与地球科学学院",
+      "discipline": "环境工程",
+      "type": "研讨课",
+      "level": "硕士课程",
+      "hours": "20",
+      "credits": "1.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讨论为主",
+      "examMethod": "文献综述",
+      "chiefProfessor": "徐华成",
+      "teacher": "徐华成",
+      "meetings": [
+        {
+          "name": "湖泊污染物行为效应与消减",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            1,
+            2
+          ],
+          "weekSpec": "2-3,6-13周",
+          "weeks": [
+            2,
+            3,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "room": "B101"
+        }
+      ]
+    },
+    {
+      "id": "085703M2001",
+      "name": "应用地球化学",
+      "englishName": "Applied Geochemistry",
+      "code": "280223085703M2001",
+      "school": "资源环境与地球科学学院",
+      "discipline": "地质工程",
+      "type": "专业核心课",
+      "level": "硕士课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "李涛",
+      "teacher": "吴卫华",
+      "meetings": [
+        {
+          "name": "应用地球化学",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            7,
+            8,
+            9
+          ],
+          "weekSpec": "2-4,6-16周",
+          "weeks": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "A201"
+        }
+      ]
+    },
+    {
+      "id": "085703M2002",
+      "name": "油气资源评价与勘探",
+      "englishName": "Petroleum Resources Evaluation and Exploration",
+      "code": "280223085703M2002",
+      "school": "资源环境与地球科学学院",
+      "discipline": "地质工程",
+      "type": "专业核心课",
+      "level": "硕士课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "课堂开卷",
+      "chiefProfessor": "陈永权",
+      "teacher": "陈永权",
+      "meetings": [
+        {
+          "name": "油气资源评价与勘探",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            7,
+            8,
+            9
+          ],
+          "weekSpec": "2-5,7-9周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9
+          ],
+          "room": "A202"
+        },
+        {
+          "name": "油气资源评价与勘探",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "2-4,6-9周",
+          "weeks": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9
+          ],
+          "room": "A202"
+        }
+      ]
+    },
+    {
+      "id": "090302M4001",
+      "name": "休闲与精致农业",
+      "englishName": "Agro. Tourism",
+      "code": "280223090302M4001",
+      "school": "资源环境与地球科学学院",
+      "discipline": "植物营养学",
+      "type": "研讨课",
+      "level": "硕士课程",
+      "hours": "20",
+      "credits": "1.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讨论为主",
+      "examMethod": "读书报告",
+      "chiefProfessor": "王慎强",
+      "teacher": "王慎强",
+      "meetings": [
+        {
+          "name": "休闲与精致农业",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            3,
+            4
+          ],
+          "weekSpec": "2-4,6-12周",
+          "weeks": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "room": "B103"
+        }
+      ]
+    },
+    {
+      "id": "030500DB001",
+      "name": "中国马克思主义与当代",
+      "englishName": "Marxism and the Present World",
+      "code": "280223030500DB001",
+      "school": "公共课",
+      "discipline": "马克思主义理论",
+      "type": "公共必修课",
+      "level": "博士课程",
+      "hours": "36",
+      "credits": "2.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "0",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "读书报告",
+      "chiefProfessor": "",
+      "teacher": "周嘉昕",
+      "meetings": [
+        {
+          "name": "中国马克思主义与当代",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "2-5,7-13周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "room": "A102"
+        },
+        {
+          "name": "中国马克思主义与当代",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "6周",
+          "weeks": [
+            6
+          ],
+          "room": "A102"
+        }
+      ]
+    },
+    {
+      "id": "050200DB001",
+      "name": "博士学位英语1班（听说类）",
+      "englishName": "PhD English Program",
+      "code": "280223050200DB001-S01",
+      "school": "公共课",
+      "discipline": "外国语言文学",
+      "type": "公共必修课",
+      "level": "博士课程",
+      "hours": "32",
+      "credits": "1.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "50",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "焦保清",
+      "meetings": [
+        {
+          "name": "博士学位英语1班（听说类）",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "2-4,6-18周",
+          "weeks": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "room": "A202"
+        }
+      ]
+    },
+    {
+      "id": "050200DB001",
+      "name": "博士学位英语2班（听说类）",
+      "englishName": "PhD English Program",
+      "code": "280223050200DB001-S02",
+      "school": "公共课",
+      "discipline": "外国语言文学",
+      "type": "公共必修课",
+      "level": "博士课程",
+      "hours": "32",
+      "credits": "1.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "50",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "焦保清",
+      "meetings": [
+        {
+          "name": "博士学位英语2班（听说类）",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            7,
+            8
+          ],
+          "weekSpec": "2-4,6-18周",
+          "weeks": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "room": "A202"
+        }
+      ]
+    },
+    {
+      "id": "050200DB001",
+      "name": "博士学位英语1班（读写类）",
+      "englishName": "PhD English Program",
+      "code": "280223050200DB001-W01",
+      "school": "公共课",
+      "discipline": "外国语言文学",
+      "type": "公共必修课",
+      "level": "博士课程",
+      "hours": "32",
+      "credits": "1.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "50",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "焦保清",
+      "meetings": [
+        {
+          "name": "博士学位英语1班（读写类）",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            1,
+            2
+          ],
+          "weekSpec": "2-5,7-18周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "room": "A202"
+        }
+      ]
+    },
+    {
+      "id": "050200DB001",
+      "name": "博士学位英语2班（读写类）",
+      "englishName": "PhD English Program",
+      "code": "280223050200DB001-W02",
+      "school": "公共课",
+      "discipline": "外国语言文学",
+      "type": "公共必修课",
+      "level": "博士课程",
+      "hours": "32",
+      "credits": "1.0",
+      "term": "秋",
+      "plannedTerm": "秋",
+      "note": "",
+      "limit": "50",
+      "enrolled": "0",
+      "teachingMethod": "课堂讲授为主",
+      "examMethod": "闭卷笔试",
+      "chiefProfessor": "",
+      "teacher": "焦保清",
+      "meetings": [
+        {
+          "name": "博士学位英语2班（读写类）",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            3,
+            4
+          ],
+          "weekSpec": "2-5,7-18周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "room": "A202"
         }
       ]
     }
