@@ -6,11 +6,13 @@
 
 无需安装开发环境，也不需要登录、密码或 VPN：
 
-1. 下载最新版 [`ucasnanjing-course-planner-v1.1.0.zip`](downloads/ucasnanjing-course-planner-v1.1.0.zip)（兼容下载入口仍为 [`ucasnanjing-course-planner-offline.zip`](downloads/ucasnanjing-course-planner-offline.zip)）。
+1. 下载最新版 [`ucasnanjing-course-planner-v2.0.0.zip`](https://raw.githubusercontent.com/luyuzhe-1/ucasnanjing-course-planner/main/downloads/ucasnanjing-course-planner-v2.0.0.zip)（兼容下载入口仍为 [`ucasnanjing-course-planner-offline.zip`](https://raw.githubusercontent.com/luyuzhe-1/ucasnanjing-course-planner/main/downloads/ucasnanjing-course-planner-offline.zip)）。
 2. 解压整个压缩包。
 3. 双击其中的“打开选课系统.html”。
 
 请不要在压缩包预览窗口中直接打开网页，也不要删除或重命名解压后的 `assets` 文件夹。
+
+历史版本：[`v1.1.0`](https://raw.githubusercontent.com/luyuzhe-1/ucasnanjing-course-planner/main/downloads/ucasnanjing-course-planner-v1.1.0.zip)。
 
 ## 主要功能
 
