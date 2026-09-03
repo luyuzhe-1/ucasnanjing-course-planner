@@ -1,9 +1,17 @@
 {
   "meta": {
-    "title": "2026-2027秋季学期",
-    "source": "2026年秋季学期课表 (1).xlsx",
-    "courseCount": 89,
-    "meetingCount": 157,
+    "title": "2026–2027学年",
+    "source": "2026-2027学年计划开设课程总表",
+    "courseCount": 145,
+    "catalogEntryCount": 155,
+    "semesterCounts": {
+      "秋": 78,
+      "春": 69
+    },
+    "scheduledCourseCount": 149,
+    "springReferenceCourseCount": 63,
+    "springReferenceMeetingCount": 95,
+    "meetingCount": 252,
     "periodTimes": {
       "1": "08:30–09:15",
       "2": "09:20–10:05",
@@ -18,8 +26,7 @@
       "11": "19:20–20:05",
       "12": "20:15–21:00",
       "13": "21:05–21:50"
-    },
-    "unmatchedCount": 0
+    }
   },
   "courses": [
     {
@@ -68,7 +75,10 @@
             15,
             16
           ],
-          "room": "图书馆A407"
+          "room": "图书馆A407",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "研究生心理健康教育指导",
@@ -82,9 +92,16 @@
           "weeks": [
             6
           ],
-          "room": "图书馆A407"
+          "room": "图书馆A407",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "040300PX010",
@@ -98,7 +115,7 @@
       "hours": "30",
       "credits": "0.5",
       "term": "秋",
-      "plannedTerm": "秋",
+      "plannedTerm": "秋春",
       "note": "",
       "limit": "32",
       "enrolled": "0",
@@ -133,9 +150,48 @@
             16,
             17
           ],
-          "room": "研创楼205"
+          "room": "研创楼205",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
+        },
+        {
+          "name": "瑜伽",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            7,
+            8
+          ],
+          "weekSpec": "1-5,7-9,11-17周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "room": "研创楼205",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋",
+        "春"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "040300PX014",
@@ -149,7 +205,7 @@
       "hours": "30",
       "credits": "0.5",
       "term": "秋",
-      "plannedTerm": "秋",
+      "plannedTerm": "秋春",
       "note": "",
       "limit": "46",
       "enrolled": "0",
@@ -184,9 +240,48 @@
             16,
             17
           ],
-          "room": "排球场"
+          "room": "排球场",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
+        },
+        {
+          "name": "排球",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            7,
+            8
+          ],
+          "weekSpec": "1-5,7-9,11-17周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "room": "排球场",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋",
+        "春"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070301P4002",
@@ -228,9 +323,16 @@
             9,
             10
           ],
-          "room": "B105"
+          "room": "B105",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070401P3004",
@@ -276,7 +378,10 @@
             12,
             13
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "天文写作",
@@ -292,7 +397,10 @@
             14,
             15
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "天文写作",
@@ -307,9 +415,16 @@
           "weeks": [
             6
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070401P3005",
@@ -353,7 +468,10 @@
             11,
             12
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "大数据天文光谱分析",
@@ -375,7 +493,10 @@
             11,
             12
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "大数据天文光谱分析",
@@ -389,9 +510,16 @@
           "weeks": [
             6
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "0704Z1P2004",
@@ -435,7 +563,10 @@
             18,
             19
           ],
-          "room": "B205"
+          "room": "B205",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "天文终端科学仪器",
@@ -460,9 +591,16 @@
             18,
             19
           ],
-          "room": "B205"
+          "room": "B205",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "0704Z1P3002",
@@ -514,7 +652,10 @@
             18,
             19
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "天文光子学",
@@ -531,9 +672,16 @@
             18,
             19
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070500P1009",
@@ -541,8 +689,8 @@
       "englishName": "Watershend Geography",
       "code": "280223070500P1009",
       "school": "资源环境与地球科学学院",
-      "discipline": "地理学",
-      "type": "学科核心课",
+      "discipline": "地理学/水土保持与荒漠化防治",
+      "type": "学科核心课/专业核心课",
       "level": "硕博通用课程",
       "hours": "60",
       "credits": "3.0",
@@ -577,7 +725,10 @@
             10,
             11
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "流域地理学",
@@ -599,7 +750,10 @@
             9,
             10
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "流域地理学",
@@ -614,9 +768,16 @@
           "weeks": [
             3
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070501P2002",
@@ -658,7 +819,10 @@
             8,
             9
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "湖泊沉积与环境",
@@ -679,7 +843,10 @@
             10,
             11
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "湖泊沉积与环境",
@@ -694,9 +861,16 @@
           "weeks": [
             3
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070501P4005",
@@ -739,7 +913,10 @@
             10,
             11
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "数据挖掘与可视化-R语言实践",
@@ -753,9 +930,16 @@
           "weeks": [
             6
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070501P5006",
@@ -804,9 +988,16 @@
             16,
             17
           ],
-          "room": "地湖所C栋310"
+          "room": "地湖所C栋310",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070502P2001",
@@ -845,7 +1036,10 @@
             12,
             13
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "城市与区域规划",
@@ -869,9 +1063,16 @@
             12,
             13
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070502P3002",
@@ -924,7 +1125,10 @@
             19,
             20
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "人文地理学概论",
@@ -939,7 +1143,10 @@
           "weeks": [
             20
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "人文地理学概论",
@@ -954,9 +1161,16 @@
           "weeks": [
             6
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070503P2003",
@@ -1005,9 +1219,16 @@
             15,
             16
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070503P2005",
@@ -1043,7 +1264,10 @@
           "weeks": [
             19
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "遥感理论与综合应用",
@@ -1073,9 +1297,16 @@
             19,
             20
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070503P6004",
@@ -1124,9 +1355,16 @@
             15,
             16
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070903P2001",
@@ -1170,7 +1408,10 @@
             12,
             13
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "古无脊椎动物学",
@@ -1192,7 +1433,10 @@
             12,
             13
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "古无脊椎动物学",
@@ -1206,9 +1450,16 @@
           "weeks": [
             6
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070903P2002",
@@ -1252,7 +1503,10 @@
             12,
             13
           ],
-          "room": "A203"
+          "room": "A203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "古植物学",
@@ -1274,7 +1528,10 @@
             11,
             12
           ],
-          "room": "A203"
+          "room": "A203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "古植物学",
@@ -1288,9 +1545,16 @@
           "weeks": [
             7
           ],
-          "room": "户外实践"
+          "room": "户外实践",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070903P3001",
@@ -1334,7 +1598,10 @@
             12,
             13
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "微体古生物学",
@@ -1356,7 +1623,10 @@
             12,
             13
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "微体古生物学",
@@ -1370,9 +1640,16 @@
           "weeks": [
             3
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070903P3002",
@@ -1420,7 +1697,10 @@
             15,
             16
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "孢粉学",
@@ -1435,9 +1715,16 @@
           "weeks": [
             9
           ],
-          "room": "户外实践"
+          "room": "户外实践",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070903P4003",
@@ -1480,7 +1767,10 @@
             10,
             11
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "现代古生物学",
@@ -1494,9 +1784,16 @@
           "weeks": [
             3
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070903P6002",
@@ -1539,7 +1836,10 @@
             12,
             13
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "南京古生物博物馆实践",
@@ -1559,7 +1859,10 @@
             12,
             13
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "南京古生物博物馆实践",
@@ -1576,9 +1879,16 @@
             8,
             9
           ],
-          "room": "古生物博物馆"
+          "room": "古生物博物馆",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "071200MX016",
@@ -1620,7 +1930,10 @@
             19,
             20
           ],
-          "room": "A101"
+          "room": "A101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "人工智能发展历程及其伦理、风险议题",
@@ -1641,9 +1954,16 @@
             19,
             20
           ],
-          "room": "A101"
+          "room": "A101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "071300P1002（线）",
@@ -1689,7 +2009,10 @@
             12,
             13
           ],
-          "room": "B202"
+          "room": "B202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "全球变化生态学(线上课，在教室集中上)",
@@ -1715,7 +2038,10 @@
             12,
             13
           ],
-          "room": "B202"
+          "room": "B202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "全球变化生态学(线上课，在教室集中上)",
@@ -1730,9 +2056,16 @@
           "weeks": [
             3
           ],
-          "room": "B202"
+          "room": "B202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "0713X2P3005（线）",
@@ -1740,8 +2073,8 @@
       "englishName": "Watershed Ecology",
       "code": "2802230713X2P3005",
       "school": "资源环境与地球科学学院",
-      "discipline": "城市与区域生态学",
-      "type": "专业课",
+      "discipline": "城市与区域生态学/水土保持与荒漠化防治",
+      "type": "专业课/专业课",
       "level": "硕博通用课程",
       "hours": "40",
       "credits": "2.0",
@@ -1783,9 +2116,16 @@
             16,
             17
           ],
-          "room": "B205"
+          "room": "B205",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "0713X2P3006（线）",
@@ -1836,7 +2176,10 @@
             18,
             19
           ],
-          "room": "B202"
+          "room": "B202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "生态统计分析方法(线上课，在教室集中上)",
@@ -1851,9 +2194,16 @@
           "weeks": [
             6
           ],
-          "room": "B202"
+          "room": "B202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "080300P1003",
@@ -1905,7 +2255,10 @@
             18,
             19
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "高等物理光学",
@@ -1921,7 +2274,10 @@
             17,
             19
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "高等物理光学",
@@ -1936,9 +2292,16 @@
           "weeks": [
             6
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "0803X1P3003",
@@ -1987,9 +2350,16 @@
             15,
             16
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "080401P2001",
@@ -2032,7 +2402,10 @@
             9,
             10
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "天文望远镜结构",
@@ -2057,7 +2430,10 @@
             12,
             13
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "天文望远镜结构",
@@ -2072,9 +2448,16 @@
           "weeks": [
             3
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "080402P2003",
@@ -2120,7 +2503,10 @@
             19,
             20
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "天文参考系",
@@ -2143,9 +2529,16 @@
             11,
             12
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "080402P4001",
@@ -2187,9 +2580,16 @@
             19,
             20
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "0805J1P2003",
@@ -2237,7 +2637,10 @@
             14,
             15
           ],
-          "room": "B105"
+          "room": "B105",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "纳米材料制备科学",
@@ -2252,9 +2655,16 @@
           "weeks": [
             3
           ],
-          "room": "B105"
+          "room": "B105",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "081201P2001",
@@ -2307,7 +2717,10 @@
             19,
             20
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "并行处理",
@@ -2322,9 +2735,16 @@
           "weeks": [
             3
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "081203D2002",
@@ -2377,9 +2797,16 @@
             19,
             20
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "082502P2001",
@@ -2430,7 +2857,10 @@
             17,
             18
           ],
-          "room": "B105"
+          "room": "B105",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "航空发动机与燃气轮机结构设计",
@@ -2445,9 +2875,16 @@
           "weeks": [
             6
           ],
-          "room": "B105"
+          "room": "B105",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "083001P3009",
@@ -2455,7 +2892,7 @@
       "englishName": "Aquatic Environmental Microbiology",
       "code": "280223083001P3009",
       "school": "资源环境与地球科学学院",
-      "discipline": "环境科学",
+      "discipline": "环境科学与工程-环境科学",
       "type": "专业课",
       "level": "硕博通用课程",
       "hours": "40",
@@ -2491,7 +2928,10 @@
             11,
             12
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "水域环境微生物学",
@@ -2513,7 +2953,10 @@
             11,
             12
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "水域环境微生物学",
@@ -2527,9 +2970,16 @@
           "weeks": [
             3
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "083001P4005",
@@ -2537,7 +2987,7 @@
       "englishName": "Aquatic Modelling for Lake-Watershed Ecosystem",
       "code": "280223083001P4005",
       "school": "资源环境与地球科学学院",
-      "discipline": "环境科学",
+      "discipline": "环境科学与工程-环境科学",
       "type": "研讨课",
       "level": "硕博通用课程",
       "hours": "20",
@@ -2573,9 +3023,16 @@
             11,
             12
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085403P3003",
@@ -2620,17 +3077,24 @@
             18,
             19
           ],
-          "room": "A101"
+          "room": "A101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "280223085404P2004",
       "name": "算法设计与分析",
       "englishName": "Algorithm Design and Analysis",
       "code": "280223085404P2004",
-      "school": "南京学院",
-      "discipline": "计算机技术",
+      "school": "信息学院",
+      "discipline": "人工智能",
       "type": "专业核心课",
       "level": "硕博通用课程",
       "hours": "60",
@@ -2675,7 +3139,10 @@
             19,
             20
           ],
-          "room": "A101"
+          "room": "A101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "算法设计与分析",
@@ -2690,7 +3157,10 @@
           "weeks": [
             20
           ],
-          "room": "A101"
+          "room": "A101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "算法设计与分析",
@@ -2705,9 +3175,16 @@
           "weeks": [
             6
           ],
-          "room": "A101"
+          "room": "A101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085404P2008",
@@ -2745,7 +3222,10 @@
             4,
             5
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "计算机体系结构",
@@ -2775,7 +3255,10 @@
             19,
             20
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "计算机体系结构",
@@ -2790,9 +3273,16 @@
           "weeks": [
             6
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085404P3009",
@@ -2841,9 +3331,16 @@
             15,
             16
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085404P3010",
@@ -2882,7 +3379,10 @@
             4,
             5
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "移动通信原理与关键技术",
@@ -2912,9 +3412,16 @@
             19,
             20
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085404P3011",
@@ -2962,7 +3469,10 @@
             14,
             15
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "云计算技术与工程",
@@ -2977,9 +3487,16 @@
           "weeks": [
             3
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085405M3006",
@@ -3028,9 +3545,16 @@
             15,
             16
           ],
-          "room": "A203"
+          "room": "A203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085408P2012",
@@ -3075,7 +3599,10 @@
             15,
             16
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "现代控制理论与方法",
@@ -3099,9 +3626,16 @@
             15,
             16
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085408P3023（线）",
@@ -3148,7 +3682,10 @@
             13,
             14
           ],
-          "room": "B204"
+          "room": "B204",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "高光谱成像物理基础与成像模型(线上课，在教室集中上)",
@@ -3163,9 +3700,16 @@
           "weeks": [
             6
           ],
-          "room": "B204"
+          "room": "B204",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085410P2001",
@@ -3179,7 +3723,7 @@
       "hours": "60",
       "credits": "3.0",
       "term": "秋",
-      "plannedTerm": "秋",
+      "plannedTerm": "春",
       "note": "",
       "limit": "0",
       "enrolled": "0",
@@ -3210,7 +3754,10 @@
             12,
             14
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "人工智能与机器学习方法",
@@ -3234,9 +3781,70 @@
             14,
             16
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
+        },
+        {
+          "name": "人工智能与机器学习方法",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            7,
+            8,
+            9
+          ],
+          "weekSpec": "1-8,10-11,13周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            13
+          ],
+          "room": "B203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "人工智能与机器学习方法",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-4,6-8,10-11周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            10,
+            11
+          ],
+          "room": "B203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
         }
-      ]
+      ],
+      "semesters": [
+        "春"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085410P3001",
@@ -3278,7 +3886,10 @@
             8,
             9
           ],
-          "room": "A101"
+          "room": "A101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "高等数值分析",
@@ -3298,7 +3909,10 @@
             7,
             8
           ],
-          "room": "A101"
+          "room": "A101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "高等数值分析",
@@ -3313,9 +3927,16 @@
           "weeks": [
             3
           ],
-          "room": "A101"
+          "room": "A101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085410P3002",
@@ -3364,9 +3985,16 @@
             17,
             19
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085601P2003",
@@ -3415,9 +4043,16 @@
             15,
             16
           ],
-          "room": "B105"
+          "room": "B105",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085802P2002",
@@ -3463,7 +4098,10 @@
             13,
             14
           ],
-          "room": "B205"
+          "room": "B205",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "传热学理论及工程应用",
@@ -3489,9 +4127,16 @@
             13,
             14
           ],
-          "room": "B205"
+          "room": "B205",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085802P2003",
@@ -3540,7 +4185,10 @@
             16,
             17
           ],
-          "room": "B105"
+          "room": "B105",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "工程流体力学与空气动力学理论及其应用",
@@ -3567,7 +4215,10 @@
             16,
             17
           ],
-          "room": "B105"
+          "room": "B105",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "工程流体力学与空气动力学理论及其应用",
@@ -3581,9 +4232,16 @@
           "weeks": [
             3
           ],
-          "room": "B105"
+          "room": "B105",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "090300P1002",
@@ -3634,9 +4292,16 @@
             19,
             20
           ],
-          "room": "B103"
+          "room": "B103",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "090300P1003",
@@ -3687,9 +4352,16 @@
             19,
             20
           ],
-          "room": "B103"
+          "room": "B103",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "090301P2004",
@@ -3741,9 +4413,16 @@
             18,
             19
           ],
-          "room": "B103"
+          "room": "B103",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "090301P2005",
@@ -3796,7 +4475,10 @@
             19,
             20
           ],
-          "room": "B103"
+          "room": "B103",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "土壤修复学",
@@ -3811,7 +4493,10 @@
           "weeks": [
             19
           ],
-          "room": "B103"
+          "room": "B103",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "土壤修复学",
@@ -3826,9 +4511,16 @@
           "weeks": [
             3
           ],
-          "room": "B103"
+          "room": "B103",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "090301P2006",
@@ -3876,7 +4568,10 @@
             14,
             15
           ],
-          "room": "B103"
+          "room": "B103",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "土壤与全球变化",
@@ -3891,9 +4586,16 @@
           "weeks": [
             6
           ],
-          "room": "B103"
+          "room": "B103",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "090301P3002",
@@ -3942,9 +4644,16 @@
             16,
             17
           ],
-          "room": "B103"
+          "room": "B103",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "090301P4001",
@@ -3988,9 +4697,16 @@
             11,
             12
           ],
-          "room": "B103"
+          "room": "B103",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "090302P3001",
@@ -4038,7 +4754,10 @@
             14,
             15
           ],
-          "room": "B103"
+          "room": "B103",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "现代新型肥料学",
@@ -4053,9 +4772,16 @@
           "weeks": [
             6
           ],
-          "room": "B103"
+          "room": "B103",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "095132M2001（线）",
@@ -4107,9 +4833,16 @@
             18,
             19
           ],
-          "room": "B202"
+          "room": "B202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "100500PX001",
@@ -4153,7 +4886,10 @@
             10,
             11
           ],
-          "room": "图书馆A421"
+          "room": "图书馆A421",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "中医与保健",
@@ -4168,9 +4904,16 @@
           "weeks": [
             3
           ],
-          "room": "图书馆A421"
+          "room": "图书馆A421",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "120500PB002",
@@ -4178,7 +4921,7 @@
       "englishName": "Academic Ethics and Writing Norms",
       "code": "280223120500PB002-01",
       "school": "公共课",
-      "discipline": "信息资源管理",
+      "discipline": "图书情报与档案管理",
       "type": "公共必修课",
       "level": "硕博通用课程",
       "hours": "20",
@@ -4212,9 +4955,16 @@
             8,
             9
           ],
-          "room": "图书馆A407"
+          "room": "图书馆A407",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "120500PB002",
@@ -4222,7 +4972,7 @@
       "englishName": "Academic Ethics and Writing Norms",
       "code": "280223120500PB002-02",
       "school": "公共课",
-      "discipline": "信息资源管理",
+      "discipline": "图书情报与档案管理",
       "type": "公共必修课",
       "level": "硕博通用课程",
       "hours": "20",
@@ -4256,9 +5006,16 @@
             8,
             9
           ],
-          "room": "图书馆A407"
+          "room": "图书馆A407",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "125601PB001",
@@ -4299,7 +5056,10 @@
             7,
             8
           ],
-          "room": "图书馆A421"
+          "room": "图书馆A421",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "工程伦理",
@@ -4314,9 +5074,16 @@
           "weeks": [
             6
           ],
-          "room": "图书馆A421"
+          "room": "图书馆A421",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "030500MB001",
@@ -4362,7 +5129,10 @@
             12,
             13
           ],
-          "room": "图书馆A407"
+          "room": "图书馆A407",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "新时代中国特色社会主义理论与实践1班",
@@ -4377,9 +5147,16 @@
           "weeks": [
             3
           ],
-          "room": "图书馆A407"
+          "room": "图书馆A407",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "030500MB001",
@@ -4425,7 +5202,10 @@
             12,
             13
           ],
-          "room": "图书馆A407"
+          "room": "图书馆A407",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "新时代中国特色社会主义理论与实践2班",
@@ -4440,9 +5220,16 @@
           "weeks": [
             3
           ],
-          "room": "图书馆A407"
+          "room": "图书馆A407",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "050200MB001",
@@ -4453,7 +5240,7 @@
       "discipline": "外国语言文学",
       "type": "公共必修课",
       "level": "硕士课程",
-      "hours": "32",
+      "hours": "64",
       "credits": "3.0",
       "term": "秋",
       "plannedTerm": "秋",
@@ -4492,9 +5279,16 @@
             17,
             18
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "050200MB001",
@@ -4505,7 +5299,7 @@
       "discipline": "外国语言文学",
       "type": "公共必修课",
       "level": "硕士课程",
-      "hours": "32",
+      "hours": "64",
       "credits": "3.0",
       "term": "秋",
       "plannedTerm": "秋",
@@ -4544,9 +5338,16 @@
             17,
             18
           ],
-          "room": "B201"
+          "room": "B201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "050200MB001",
@@ -4557,7 +5358,7 @@
       "discipline": "外国语言文学",
       "type": "公共必修课",
       "level": "硕士课程",
-      "hours": "32",
+      "hours": "64",
       "credits": "3.0",
       "term": "秋",
       "plannedTerm": "秋",
@@ -4596,9 +5397,16 @@
             17,
             18
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "050200MB001",
@@ -4609,7 +5417,7 @@
       "discipline": "外国语言文学",
       "type": "公共必修课",
       "level": "硕士课程",
-      "hours": "32",
+      "hours": "64",
       "credits": "3.0",
       "term": "秋",
       "plannedTerm": "秋",
@@ -4648,9 +5456,16 @@
             17,
             18
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "050200MB001",
@@ -4661,7 +5476,7 @@
       "discipline": "外国语言文学",
       "type": "公共必修课",
       "level": "硕士课程",
-      "hours": "32",
+      "hours": "64",
       "credits": "3.0",
       "term": "秋",
       "plannedTerm": "秋",
@@ -4700,9 +5515,16 @@
             17,
             18
           ],
-          "room": "A203"
+          "room": "A203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "050200MB001",
@@ -4713,7 +5535,7 @@
       "discipline": "外国语言文学",
       "type": "公共必修课",
       "level": "硕士课程",
-      "hours": "32",
+      "hours": "64",
       "credits": "3.0",
       "term": "秋",
       "plannedTerm": "秋",
@@ -4752,9 +5574,16 @@
             17,
             18
           ],
-          "room": "A203"
+          "room": "A203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070500M1001",
@@ -4805,7 +5634,10 @@
             17,
             18
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "当代人文与经济地理学",
@@ -4820,9 +5652,16 @@
           "weeks": [
             6
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "070502M2002",
@@ -4834,7 +5673,7 @@
       "type": "专业核心课",
       "level": "硕士课程",
       "hours": "40",
-      "credits": "2.0",
+      "credits": "2",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
@@ -4871,9 +5710,16 @@
             15,
             16
           ],
-          "room": "A201"
+          "room": "A201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085407M2002",
@@ -4924,7 +5770,10 @@
             17,
             18
           ],
-          "room": "B105"
+          "room": "B105",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "现代仪器光学技术",
@@ -4939,9 +5788,16 @@
           "weeks": [
             3
           ],
-          "room": "B105"
+          "room": "B105",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085701M2003",
@@ -4949,7 +5805,7 @@
       "englishName": "Lake Environmental Chemistry",
       "code": "280223085701M2003",
       "school": "资源环境与地球科学学院",
-      "discipline": "环境工程",
+      "discipline": "资源与环境-环境工程",
       "type": "专业核心课",
       "level": "硕士课程",
       "hours": "40",
@@ -4977,7 +5833,10 @@
             19,
             20
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "湖泊环境化学",
@@ -5008,9 +5867,16 @@
             19,
             20
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085701M2004",
@@ -5018,8 +5884,8 @@
       "englishName": "Lake Environment Engineering",
       "code": "280223085701M2004",
       "school": "资源环境与地球科学学院",
-      "discipline": "环境工程",
-      "type": "专业核心课",
+      "discipline": "资源与环境-环境工程",
+      "type": "专业核心科",
       "level": "硕士课程",
       "hours": "40",
       "credits": "2.0",
@@ -5058,7 +5924,10 @@
             14,
             15
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "湖泊环境工程",
@@ -5073,9 +5942,16 @@
           "weeks": [
             6
           ],
-          "room": "B203"
+          "room": "B203",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085701M3007",
@@ -5083,7 +5959,7 @@
       "englishName": "Water Ecological Assessment and Restoration",
       "code": "280223085701M3007",
       "school": "资源环境与地球科学学院",
-      "discipline": "环境工程",
+      "discipline": "资源与环境-环境工程",
       "type": "专业课",
       "level": "硕士课程",
       "hours": "40",
@@ -5124,9 +6000,16 @@
             15,
             16
           ],
-          "room": "A201"
+          "room": "A201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085701M4005",
@@ -5134,7 +6017,7 @@
       "englishName": "Behaviour, Fate and Attenuation of Lake Contaminants",
       "code": "280223085701M4005",
       "school": "资源环境与地球科学学院",
-      "discipline": "环境工程",
+      "discipline": "资源与环境-环境工程",
       "type": "研讨课",
       "level": "硕士课程",
       "hours": "20",
@@ -5170,9 +6053,16 @@
             12,
             13
           ],
-          "room": "B101"
+          "room": "B101",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085703M2001",
@@ -5221,9 +6111,16 @@
             15,
             16
           ],
-          "room": "A201"
+          "room": "A201",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "085703M2002",
@@ -5265,7 +6162,10 @@
             8,
             9
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "油气资源评价与勘探",
@@ -5286,9 +6186,16 @@
             8,
             9
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "090302M4001",
@@ -5332,9 +6239,16 @@
             11,
             12
           ],
-          "room": "B103"
+          "room": "B103",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "030500DB001",
@@ -5380,7 +6294,10 @@
             12,
             13
           ],
-          "room": "A102"
+          "room": "A102",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         },
         {
           "name": "中国马克思主义与当代",
@@ -5395,9 +6312,16 @@
           "weeks": [
             6
           ],
-          "room": "A102"
+          "room": "A102",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "050200DB001",
@@ -5408,8 +6332,8 @@
       "discipline": "外国语言文学",
       "type": "公共必修课",
       "level": "博士课程",
-      "hours": "32",
-      "credits": "1.0",
+      "hours": "64",
+      "credits": "2.0",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
@@ -5447,9 +6371,16 @@
             17,
             18
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "050200DB001",
@@ -5460,8 +6391,8 @@
       "discipline": "外国语言文学",
       "type": "公共必修课",
       "level": "博士课程",
-      "hours": "32",
-      "credits": "1.0",
+      "hours": "64",
+      "credits": "2.0",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
@@ -5499,9 +6430,16 @@
             17,
             18
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "050200DB001",
@@ -5512,8 +6450,8 @@
       "discipline": "外国语言文学",
       "type": "公共必修课",
       "level": "博士课程",
-      "hours": "32",
-      "credits": "1.0",
+      "hours": "64",
+      "credits": "2.0",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
@@ -5551,9 +6489,16 @@
             17,
             18
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
         }
-      ]
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
     },
     {
       "id": "050200DB001",
@@ -5564,8 +6509,8 @@
       "discipline": "外国语言文学",
       "type": "公共必修课",
       "level": "博士课程",
-      "hours": "32",
-      "credits": "1.0",
+      "hours": "64",
+      "credits": "2.0",
       "term": "秋",
       "plannedTerm": "秋",
       "note": "",
@@ -5603,7 +6548,4261 @@
             17,
             18
           ],
-          "room": "A202"
+          "room": "A202",
+          "semester": "秋",
+          "reference": false,
+          "source": "2026–2027秋季学期正式课表"
+        }
+      ],
+      "semesters": [
+        "秋"
+      ],
+      "scheduleStatus": "已排课"
+    },
+    {
+      "id": "090301P2001",
+      "name": "环境土壤学",
+      "englishName": "",
+      "code": "090301P2001",
+      "school": "资源环境与地球科学学院",
+      "discipline": "土壤学",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "环境土壤学",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "5-14周",
+          "weeks": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "B103",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "环境土壤学",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "5-8,10-15周",
+          "weeks": [
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "room": "B103",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "095132M2002",
+      "name": "试验设计与统计实践",
+      "englishName": "",
+      "code": "095132M2002",
+      "school": "资源环境与地球科学学院",
+      "discipline": "资源利用与植物保护",
+      "type": "专业核心课",
+      "level": "硕士课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "试验设计与统计实践",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "15周",
+          "weeks": [
+            15
+          ],
+          "room": "A203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "试验设计与统计实践",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-2,4-8,10-15周",
+          "weeks": [
+            1,
+            2,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "room": "A203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "090301P2002",
+      "name": "土壤化学",
+      "englishName": "",
+      "code": "090301P2002",
+      "school": "资源环境与地球科学学院",
+      "discipline": "土壤学",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "50",
+      "credits": "2.5",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "土壤化学",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "1-5,7-9,11-12周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            11,
+            12
+          ],
+          "room": "B103",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "土壤化学",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-5,7-10,12周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            12
+          ],
+          "room": "B103",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "090301P2003",
+      "name": "土壤生态学",
+      "englishName": "",
+      "code": "090301P2003",
+      "school": "资源环境与地球科学学院",
+      "discipline": "土壤学/水土保持与荒漠化防治",
+      "type": "专业核心课/专业课",
+      "level": "硕博通用课程",
+      "hours": "50",
+      "credits": "2.5",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "土壤生态学",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "1-15周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "room": "B103",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "090301P2007",
+      "name": "土壤生物学",
+      "englishName": "",
+      "code": "090301P2007",
+      "school": "资源环境与地球科学学院",
+      "discipline": "土壤学",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "50",
+      "credits": "2.5",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "土壤生物学",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "16周",
+          "weeks": [
+            16
+          ],
+          "room": "B103",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "土壤生物学",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-16周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "B103",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "090300P1001",
+      "name": "土壤资源概论",
+      "englishName": "",
+      "code": "090300P1001",
+      "school": "资源环境与地球科学学院",
+      "discipline": "农业资源与环境",
+      "type": "学科核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "土壤资源概论",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-11周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "room": "B102",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "土壤资源概论",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "1-8,10周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10
+          ],
+          "room": "B102",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "土壤资源概论",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            7
+          ],
+          "weekSpec": "1-8,10周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10
+          ],
+          "room": "B103",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "090301M3002",
+      "name": "文献阅读",
+      "englishName": "",
+      "code": "090301M3002",
+      "school": "资源环境与地球科学学院",
+      "discipline": "土壤学",
+      "type": "专业课",
+      "level": "硕士课程",
+      "hours": "30",
+      "credits": "1.5",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "文献阅读",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "1-10周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "room": "B103",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085701M3008",
+      "name": "环境工程基础",
+      "englishName": "",
+      "code": "085701M3008",
+      "school": "资源环境与地球科学学院",
+      "discipline": "资源与环境-环境工程",
+      "type": "专业课",
+      "level": "硕士课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "环境工程基础",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "1-5,7-9,11-16周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "B103",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "083000P1006",
+      "name": "环境数据分析与机器学习",
+      "englishName": "",
+      "code": "083000P1006",
+      "school": "资源环境与地球科学学院",
+      "discipline": "环境科学与工程",
+      "type": "学科核心课",
+      "level": "硕博通用课程",
+      "hours": "50",
+      "credits": "2.5",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "环境数据分析与机器学习",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "16周",
+          "weeks": [
+            16
+          ],
+          "room": "B203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "环境数据分析与机器学习",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "1-16周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "B203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "083001M3004",
+      "name": "土壤环境化学",
+      "englishName": "",
+      "code": "083001M3004",
+      "school": "资源环境与地球科学学院",
+      "discipline": "环境科学与工程-环境科学",
+      "type": "专业课",
+      "level": "硕士课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "土壤环境化学",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-14周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "A203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "095132M3002",
+      "name": "资源利用与植物保护",
+      "englishName": "",
+      "code": "095132M3002",
+      "school": "资源环境与地球科学学院",
+      "discipline": "资源利用与植物保护",
+      "type": "专业课",
+      "level": "硕士课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "资源利用与植物保护",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "1-14周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "B103",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "083000P1008",
+      "name": "湖泊学",
+      "englishName": "",
+      "code": "083000P1008",
+      "school": "资源环境与地球科学学院",
+      "discipline": "环境科学与工程",
+      "type": "学科核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "湖泊学",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "1-9,11周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            11
+          ],
+          "room": "A101",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "湖泊学",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "1-8,10-11周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11
+          ],
+          "room": "A101",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "070503P4004",
+      "name": "湖泊环境遥感",
+      "englishName": "",
+      "code": "070503P4004",
+      "school": "资源环境与地球科学学院",
+      "discipline": "地图学与地理信息系统",
+      "type": "研讨课",
+      "level": "硕博通用课程",
+      "hours": "20",
+      "credits": "1.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "湖泊环境遥感",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "11-15周",
+          "weeks": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "room": "B101",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "湖泊环境遥感",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "11-15周",
+          "weeks": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "room": "B101",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "070501P5001",
+      "name": "环境地理实验分析",
+      "englishName": "",
+      "code": "070501P5001",
+      "school": "资源环境与地球科学学院",
+      "discipline": "自然地理学",
+      "type": "实验课",
+      "level": "硕博通用课程",
+      "hours": "30",
+      "credits": "1.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "环境地理实验分析",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "2-9,11-12周",
+          "weeks": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            11,
+            12
+          ],
+          "room": "地湖所C栋310",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "070501P4001",
+      "name": "湖泊生态系统演变与全球变化研究前沿",
+      "englishName": "",
+      "code": "070501P4001",
+      "school": "资源环境与地球科学学院",
+      "discipline": "自然地理学",
+      "type": "研讨课",
+      "level": "硕博通用课程",
+      "hours": "20",
+      "credits": "1.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "湖泊生态系统演变与全球变化研究前沿",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            3,
+            4
+          ],
+          "weekSpec": "1-2,4-8,10-12周",
+          "weeks": [
+            1,
+            2,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12
+          ],
+          "room": "B101",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "083001P6001",
+      "name": "湖泊科学野外实践",
+      "englishName": "",
+      "code": "083001P6001",
+      "school": "资源环境与地球科学学院",
+      "discipline": "环境科学与工程-环境科学",
+      "type": "实践课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "待排课",
+      "meetings": []
+    },
+    {
+      "id": "070501P2003",
+      "name": "生态水文学",
+      "englishName": "",
+      "code": "070501P2003",
+      "school": "资源环境与地球科学学院",
+      "discipline": "自然地理学",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "生态水文学",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "1-5,7-9,11-16周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "B101",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "070502P3004",
+      "name": "人文与经济地理学文献阅读",
+      "englishName": "",
+      "code": "070502P3004",
+      "school": "资源环境与地球科学学院",
+      "discipline": "人文地理学",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "人文与经济地理学文献阅读",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-8,10-15周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "room": "B201",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085701M3011",
+      "name": "新污染物检测与风险评估方法",
+      "englishName": "",
+      "code": "085701M3011",
+      "school": "资源环境与地球科学学院",
+      "discipline": "资源与环境-环境工程",
+      "type": "专业课",
+      "level": "硕士课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "新污染物检测与风险评估方法",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-5,7-15周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "room": "B101",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "070904P2008",
+      "name": "沉积地质学",
+      "englishName": "",
+      "code": "070904P2008",
+      "school": "资源环境与地球科学学院",
+      "discipline": "构造地质学",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "沉积地质学",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            7,
+            8,
+            9
+          ],
+          "weekSpec": "1-11周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "room": "A202",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "沉积地质学",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "1-7,10-11周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            10,
+            11
+          ],
+          "room": "A202",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "070903P2005",
+      "name": "地层学原理",
+      "englishName": "",
+      "code": "070903P2005",
+      "school": "资源环境与地球科学学院",
+      "discipline": "古生物学与地层学",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "50",
+      "credits": "2.5",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "地层学原理",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "1-13周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "room": "A202",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "地层学原理",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            1,
+            2
+          ],
+          "weekSpec": "1-7,10-14周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "A202",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "070903P2006",
+      "name": "地史学",
+      "englishName": "",
+      "code": "070903P2006",
+      "school": "资源环境与地球科学学院",
+      "discipline": "古生物学与地层学",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "50",
+      "credits": "2.5",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "地史学",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "11-13周",
+          "weeks": [
+            11,
+            12,
+            13
+          ],
+          "room": "A202",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "地史学",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            3,
+            4
+          ],
+          "weekSpec": "1-10周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "room": "A202",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "地史学",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "11-12周",
+          "weeks": [
+            11,
+            12
+          ],
+          "room": "A202",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "地史学",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            3,
+            4
+          ],
+          "weekSpec": "1-7,10周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            10
+          ],
+          "room": "A202",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "0709Z1P3002",
+      "name": "天体生物学",
+      "englishName": "",
+      "code": "0709Z1P3002",
+      "school": "资源环境与地球科学学院",
+      "discipline": "地球生物学",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "天体生物学",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "1-7周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "room": "A201",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "天体生物学",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-7周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "room": "A201",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "070903P3004",
+      "name": "应用地层古生物学",
+      "englishName": "",
+      "code": "070903P3004",
+      "school": "资源环境与地球科学学院",
+      "discipline": "古生物学与地层学",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "应用地层古生物学",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "1-5,7-9,11周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            11
+          ],
+          "room": "A202",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "应用地层古生物学",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            1,
+            2
+          ],
+          "weekSpec": "1-11周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "room": "A202",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085703M3004",
+      "name": "油气藏开发地质",
+      "englishName": "",
+      "code": "085703M3004",
+      "school": "资源环境与地球科学学院",
+      "discipline": "地质工程",
+      "type": "专业课",
+      "level": "硕士课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "油气藏开发地质",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            7,
+            8,
+            9
+          ],
+          "weekSpec": "1-3,5,7-9,11周",
+          "weeks": [
+            1,
+            2,
+            3,
+            5,
+            7,
+            8,
+            9,
+            11
+          ],
+          "room": "A202",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "油气藏开发地质",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            5,
+            6
+          ],
+          "weekSpec": "1-2,5-10周",
+          "weeks": [
+            1,
+            2,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "room": "A202",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085703M3005（线）",
+      "name": "现代矿物学分析新技术及其应用",
+      "englishName": "",
+      "code": "085703M3005（线）",
+      "school": "资源环境与地球科学学院",
+      "discipline": "地质工程",
+      "type": "专业课",
+      "level": "硕士课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "限地质工程专业学生选课",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "现代矿物学分析新技术及其应用(线)",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            1,
+            2,
+            3
+          ],
+          "weekSpec": "7-9,11-14周",
+          "weeks": [
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "B204",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "现代矿物学分析新技术及其应用(线)",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            1,
+            2,
+            3
+          ],
+          "weekSpec": "7-9,11-14周",
+          "weeks": [
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "B204",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "095132M3001（线）",
+      "name": "土壤修复学",
+      "englishName": "",
+      "code": "095132M3001（线）",
+      "school": "资源环境与地球科学学院",
+      "discipline": "资源利用与植物保护",
+      "type": "专业课",
+      "level": "硕士课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "限资源利用与植物保护专业学生选课",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "土壤修复学(线)",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "1-14周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "B205",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "0713X2P2002（线）",
+      "name": "生态系统评估与管理",
+      "englishName": "",
+      "code": "0713X2P2002（线）",
+      "school": "资源环境与地球科学学院",
+      "discipline": "城市与区域生态学/水土保持与荒漠化防治/环境经济与环境管理",
+      "type": "专业核心课/专业核心课/专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "限生态学、水土保持与荒漠化防治、环境科学与工程专业学生选课",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "生态系统评估与管理(线)",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            3,
+            4
+          ],
+          "weekSpec": "1-12周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "room": "B202",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "生态系统评估与管理(线)",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            3,
+            4
+          ],
+          "weekSpec": "1-12周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "room": "B202",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "081202P3001",
+      "name": "矩阵分析与应用",
+      "englishName": "",
+      "code": "081202P3001",
+      "school": "信息学院",
+      "discipline": "计算机软件与理论",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "矩阵分析与应用",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "1-14周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "B201",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085403M3002",
+      "name": "嵌入式系统的软硬件设计",
+      "englishName": "",
+      "code": "085403M3002",
+      "school": "信息学院",
+      "discipline": "集成电路工程",
+      "type": "专业课",
+      "level": "硕士课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "嵌入式系统的软硬件设计",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-14周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "B203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085405P2001",
+      "name": "高级操作系统教程",
+      "englishName": "",
+      "code": "085405P2001",
+      "school": "信息学院",
+      "discipline": "软件工程",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "高级操作系统教程",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            6,
+            7,
+            8
+          ],
+          "weekSpec": "1-18周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "room": "B203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "高级操作系统教程",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "1-2周",
+          "weeks": [
+            1,
+            2
+          ],
+          "room": "B203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085405P3002",
+      "name": "机器学习系统",
+      "englishName": "",
+      "code": "085405P3002",
+      "school": "信息学院",
+      "discipline": "软件工程",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "机器学习系统",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "1-8,10-15周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "room": "A203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085405P2003",
+      "name": "现代软件开发方法",
+      "englishName": "",
+      "code": "085405P2003",
+      "school": "信息学院",
+      "discipline": "软件工程",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "现代软件开发方法",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "1-18周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "room": "B203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "现代软件开发方法",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "6,11周",
+          "weeks": [
+            6,
+            11
+          ],
+          "room": "B203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085405M3005",
+      "name": "云计算技术与系统",
+      "englishName": "",
+      "code": "085405M3005",
+      "school": "信息学院",
+      "discipline": "软件工程",
+      "type": "专业课",
+      "level": "硕士课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "云计算技术与系统",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-8,10-15周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "room": "B203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085404P2006",
+      "name": "分布式计算",
+      "englishName": "",
+      "code": "085404P2006",
+      "school": "信息学院",
+      "discipline": "计算机技术",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "分布式计算",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "3-5周",
+          "weeks": [
+            3,
+            4,
+            5
+          ],
+          "room": "B203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "分布式计算",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-17周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "room": "B203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085410P4001",
+      "name": "机器视觉",
+      "englishName": "",
+      "code": "085410P4001",
+      "school": "信息学院",
+      "discipline": "人工智能",
+      "type": "研讨课",
+      "level": "硕博通用课程",
+      "hours": "20",
+      "credits": "1.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "机器视觉",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "1-7周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "room": "A203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085410P3003",
+      "name": "智能博弈方法与案例",
+      "englishName": "",
+      "code": "085410P3003",
+      "school": "信息学院",
+      "discipline": "人工智能",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "50",
+      "credits": "2.5",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "智能博弈方法与案例",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            7,
+            8,
+            9
+          ],
+          "weekSpec": "1-16,18周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            18
+          ],
+          "room": "A203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "080902D3001",
+      "name": "数字通信原理",
+      "englishName": "",
+      "code": "080902D3001",
+      "school": "信息学院",
+      "discipline": "电路与系统",
+      "type": "专业课",
+      "level": "博士课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "数字通信原理",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            6,
+            7,
+            8
+          ],
+          "weekSpec": "1-8,10-15,17-18周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18
+          ],
+          "room": "A201",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "数字通信原理",
+          "day": "周日",
+          "dayIndex": 7,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-4周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "room": "A201",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "081104P2008",
+      "name": "现代信号处理技术",
+      "englishName": "",
+      "code": "081104P2008",
+      "school": "信息学院",
+      "discipline": "模式识别与智能系统",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "现代信号处理技术",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "1-14周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "B203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "081201P3001",
+      "name": "智能计算系统",
+      "englishName": "",
+      "code": "081201P3001",
+      "school": "工业人工智能研究所",
+      "discipline": "计算机系统结构",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "智能计算系统",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "1-5,7-9,11-16周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "B203",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "081200P1008",
+      "name": "模式识别与机器学习技术",
+      "englishName": "",
+      "code": "081200P1008",
+      "school": "工业人工智能研究所",
+      "discipline": "计算机科学与技术",
+      "type": "学科核心课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "拟开设",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "待排课",
+      "meetings": []
+    },
+    {
+      "id": "070301P2008",
+      "name": "先进电池材料",
+      "englishName": "",
+      "code": "070301P2008",
+      "school": "能源动力与智能制造学院",
+      "discipline": "无机化学",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "先进电池材料",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "1-8,10-15周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "room": "B105",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085802P2001",
+      "name": "工程燃烧学及煤的清洁利用技术",
+      "englishName": "",
+      "code": "085802P2001",
+      "school": "能源动力与智能制造学院",
+      "discipline": "动力工程",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "待排课",
+      "meetings": []
+    },
+    {
+      "id": "085802P3001",
+      "name": "热电物性测量技术及器件优化应用",
+      "englishName": "",
+      "code": "085802P3001",
+      "school": "能源动力与智能制造学院",
+      "discipline": "动力工程",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "热电物性测量技术及器件优化应用",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "1-7周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "room": "B105",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "热电物性测量技术及器件优化应用",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "1-7周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "room": "B105",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085804P3003",
+      "name": "叶轮机流动分离基本原理与应用",
+      "englishName": "",
+      "code": "085804P3003",
+      "school": "能源动力与智能制造学院",
+      "discipline": "航空发动机工程",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "叶轮机流动分离基本原理与应用",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "3-11周",
+          "weeks": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "room": "B105",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "叶轮机流动分离基本原理与应用",
+          "day": "周六",
+          "dayIndex": 6,
+          "periods": [
+            1,
+            2,
+            3
+          ],
+          "weekSpec": "3-4,6-8周",
+          "weeks": [
+            3,
+            4,
+            6,
+            7,
+            8
+          ],
+          "room": "B105",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085808P3001",
+      "name": "储能技术概论",
+      "englishName": "",
+      "code": "085808P3001",
+      "school": "能源动力与智能制造学院",
+      "discipline": "储能技术",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "储能技术概论",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            8,
+            9
+          ],
+          "weekSpec": "1-8周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "room": "B105",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "储能技术概论",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            1,
+            2,
+            3
+          ],
+          "weekSpec": "1-8周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "room": "B105",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085601D2003",
+      "name": "材料制备科学基础",
+      "englishName": "",
+      "code": "085601D2003",
+      "school": "能源动力与智能制造学院",
+      "discipline": "材料工程",
+      "type": "专业核心课",
+      "level": "博士课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "材料制备科学基础",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-14周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "B105",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085601M3005",
+      "name": "磁性材料",
+      "englishName": "",
+      "code": "085601M3005",
+      "school": "能源动力与智能制造学院",
+      "discipline": "材料工程",
+      "type": "专业课",
+      "level": "硕士课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "磁性材料",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-5,7-9,11-16周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "B105",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085601M3003",
+      "name": "材料的气相沉积制备技术",
+      "englishName": "",
+      "code": "085601M3003",
+      "school": "能源动力与智能制造学院",
+      "discipline": "材料工程",
+      "type": "专业课",
+      "level": "硕士课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "材料的气相沉积制备技术",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "1-5,7-9,11-16周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "B105",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085408P2010",
+      "name": "近代光学测试技术",
+      "englishName": "",
+      "code": "085408P2010",
+      "school": "天文与空间科学技术学院",
+      "discipline": "光电信息工程",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "50",
+      "credits": "2.5",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "近代光学测试技术",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            6,
+            7,
+            8
+          ],
+          "weekSpec": "1-17周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "room": "B201",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085408P2011",
+      "name": "新型传感器技术与应用",
+      "englishName": "",
+      "code": "085408P2011",
+      "school": "天文与空间科学技术学院",
+      "discipline": "光电信息工程",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "新型传感器技术与应用",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "1-5,7-9,11-16周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "B201",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "085408P3024",
+      "name": "机械振动",
+      "englishName": "",
+      "code": "085408P3024",
+      "school": "天文与空间科学技术学院",
+      "discipline": "光电信息工程",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "50",
+      "credits": "2.5",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "机械振动",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            10,
+            11
+          ],
+          "weekSpec": "1-5,7-9,11-14周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "B205",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "机械振动",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            3,
+            4
+          ],
+          "weekSpec": "1-13周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "room": "B205",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "080402P2004",
+      "name": "有限元方法及工程应用",
+      "englishName": "",
+      "code": "080402P2004",
+      "school": "天文与空间科学技术学院",
+      "discipline": "测试计量技术及仪器",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "50",
+      "credits": "2.5",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "待排课",
+      "meetings": []
+    },
+    {
+      "id": "070400P1001",
+      "name": "高等天文学",
+      "englishName": "",
+      "code": "070400P1001",
+      "school": "天文与空间科学技术学院",
+      "discipline": "天文学",
+      "type": "学科核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "高等天文学",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-17周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "room": "B205",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "高等天文学",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "14-15,17周",
+          "weeks": [
+            14,
+            15,
+            17
+          ],
+          "room": "B205",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "0803X1P2004",
+      "name": "自适应光学",
+      "englishName": "",
+      "code": "0803X1P2004",
+      "school": "天文与空间科学技术学院",
+      "discipline": "光电成像与传感技术",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "自适应光学",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            1,
+            2,
+            3
+          ],
+          "weekSpec": "1-5,7-9,11-16周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "B205",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "0704Z1P2001",
+      "name": "天文光学系统",
+      "englishName": "",
+      "code": "0704Z1P2001",
+      "school": "天文与空间科学技术学院",
+      "discipline": "天文技术与方法",
+      "type": "专业核心课",
+      "level": "硕博通用课程",
+      "hours": "60",
+      "credits": "3.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "天文光学系统",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "1-17周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "room": "B201",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "天文光学系统",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "14-15,17周",
+          "weeks": [
+            14,
+            15,
+            17
+          ],
+          "room": "B201",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "0803X4P3002",
+      "name": "光学信息处理",
+      "englishName": "",
+      "code": "0803X4P3002",
+      "school": "天文与空间科学技术学院",
+      "discipline": "光电信息科学与技术",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "光学信息处理",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "1-14周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "B205",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "080401P3006",
+      "name": "光学精密检测技术及检测仪器",
+      "englishName": "",
+      "code": "080401P3006",
+      "school": "天文与空间科学技术学院",
+      "discipline": "精密仪器及机械",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "光学精密检测技术及检测仪器",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            6,
+            7,
+            8
+          ],
+          "weekSpec": "1-8,10-15周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "room": "B205",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "080401P3008（线）",
+      "name": "高精度时间间隔与频率测量仪器设计",
+      "englishName": "",
+      "code": "080401P3008（线）",
+      "school": "天文与空间科学技术学院",
+      "discipline": "精密仪器及机械",
+      "type": "专业课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "2.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "限精密仪器及机械专业学生选课",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "高精度时间间隔与频率测量仪器设计(线)",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            10,
+            11,
+            12
+          ],
+          "weekSpec": "7-9,11-14周",
+          "weeks": [
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "B104",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "高精度时间间隔与频率测量仪器设计(线)",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            1,
+            2,
+            3
+          ],
+          "weekSpec": "7-9,11-14周",
+          "weeks": [
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14
+          ],
+          "room": "B104",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "070903PX001",
+      "name": "科学摄影与显微成像",
+      "englishName": "",
+      "code": "070903PX001",
+      "school": "公共课",
+      "discipline": "古生物学与地层学",
+      "type": "公共选修课",
+      "level": "硕博通用课程",
+      "hours": "30",
+      "credits": "1.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "科学摄影与显微成像",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            7,
+            8,
+            9
+          ],
+          "weekSpec": "1-10周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "room": "A101",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "040300PX004",
+      "name": "足球",
+      "englishName": "",
+      "code": "040300PX004",
+      "school": "公共课",
+      "discipline": "体育学",
+      "type": "公共选修课",
+      "level": "硕博通用课程",
+      "hours": "30",
+      "credits": "0.5",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "待排课",
+      "meetings": []
+    },
+    {
+      "id": "010108MB001",
+      "name": "自然辩证法概论",
+      "englishName": "",
+      "code": "010108MB001",
+      "school": "公共课",
+      "discipline": "科学技术哲学",
+      "type": "公共必修课",
+      "level": "硕士课程",
+      "hours": "36",
+      "credits": "1.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "待排课",
+      "meetings": []
+    },
+    {
+      "id": "1301X2PX007",
+      "name": "音乐鉴赏",
+      "englishName": "",
+      "code": "1301X2PX007",
+      "school": "公共课",
+      "discipline": "音乐与舞蹈学",
+      "type": "公共选修课",
+      "level": "硕博通用课程",
+      "hours": "30",
+      "credits": "1.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "音乐鉴赏",
+          "day": "周四",
+          "dayIndex": 4,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-10周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "room": "图书馆A421",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "070903PX004",
+      "name": "地学大数据及其应用",
+      "englishName": "",
+      "code": "070903PX004",
+      "school": "公共课",
+      "discipline": "古生物学与地层学",
+      "type": "公共选修课",
+      "level": "硕博通用课程",
+      "hours": "30",
+      "credits": "1.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "地学大数据及其应用",
+          "day": "周二",
+          "dayIndex": 2,
+          "periods": [
+            8,
+            9
+          ],
+          "weekSpec": "1-8周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "room": "A202",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        },
+        {
+          "name": "地学大数据及其应用",
+          "day": "周五",
+          "dayIndex": 5,
+          "periods": [
+            8,
+            9
+          ],
+          "weekSpec": "1-7周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "room": "A202",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "1301X1PX002",
+      "name": "书画艺术史",
+      "englishName": "",
+      "code": "1301X1PX002",
+      "school": "公共课",
+      "discipline": "艺术学理论",
+      "type": "公共选修课",
+      "level": "硕博通用课程",
+      "hours": "30",
+      "credits": "1.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "书画艺术史",
+          "day": "周三",
+          "dayIndex": 3,
+          "periods": [
+            5,
+            6,
+            7
+          ],
+          "weekSpec": "1-10周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "room": "A102",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
+        }
+      ]
+    },
+    {
+      "id": "081202PX007",
+      "name": "Python编程基础",
+      "englishName": "",
+      "code": "081202PX007",
+      "school": "公共课",
+      "discipline": "计算机软件与理论",
+      "type": "公共选修课",
+      "level": "硕博通用课程",
+      "hours": "40",
+      "credits": "1.0",
+      "term": "春",
+      "plannedTerm": "春",
+      "semesters": [
+        "春"
+      ],
+      "note": "",
+      "limit": "",
+      "enrolled": "",
+      "teachingMethod": "",
+      "examMethod": "",
+      "chiefProfessor": "",
+      "teacher": "",
+      "scheduleStatus": "参考排课",
+      "meetings": [
+        {
+          "name": "Python编程基础",
+          "day": "周一",
+          "dayIndex": 1,
+          "periods": [
+            2,
+            3,
+            4
+          ],
+          "weekSpec": "1-5,7-9,11-16周",
+          "weeks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "room": "A102",
+          "semester": "春",
+          "reference": true,
+          "source": "2025–2026春季学期课表"
         }
       ]
     }
