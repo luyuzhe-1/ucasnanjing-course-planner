@@ -5,13 +5,13 @@
     "courseCount": 145,
     "catalogEntryCount": 155,
     "semesterCounts": {
-      "秋": 78,
-      "春": 69
+      "秋": 89,
+      "春": 68
     },
     "scheduledCourseCount": 149,
-    "springReferenceCourseCount": 63,
-    "springReferenceMeetingCount": 95,
-    "meetingCount": 252,
+    "springReferenceCourseCount": 62,
+    "springReferenceMeetingCount": 93,
+    "meetingCount": 250,
     "periodTimes": {
       "1": "08:30–09:15",
       "2": "09:20–10:05",
@@ -3723,7 +3723,7 @@
       "hours": "60",
       "credits": "3.0",
       "term": "秋",
-      "plannedTerm": "春",
+      "plannedTerm": "秋",
       "note": "",
       "limit": "0",
       "enrolled": "0",
@@ -3785,64 +3785,10 @@
           "semester": "秋",
           "reference": false,
           "source": "2026–2027秋季学期正式课表"
-        },
-        {
-          "name": "人工智能与机器学习方法",
-          "day": "周五",
-          "dayIndex": 5,
-          "periods": [
-            7,
-            8,
-            9
-          ],
-          "weekSpec": "1-8,10-11,13周",
-          "weeks": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            10,
-            11,
-            13
-          ],
-          "room": "B203",
-          "semester": "春",
-          "reference": true,
-          "source": "2025–2026春季学期课表"
-        },
-        {
-          "name": "人工智能与机器学习方法",
-          "day": "周日",
-          "dayIndex": 7,
-          "periods": [
-            2,
-            3,
-            4
-          ],
-          "weekSpec": "1-4,6-8,10-11周",
-          "weeks": [
-            1,
-            2,
-            3,
-            4,
-            6,
-            7,
-            8,
-            10,
-            11
-          ],
-          "room": "B203",
-          "semester": "春",
-          "reference": true,
-          "source": "2025–2026春季学期课表"
         }
       ],
       "semesters": [
-        "春"
+        "秋"
       ],
       "scheduleStatus": "已排课"
     },

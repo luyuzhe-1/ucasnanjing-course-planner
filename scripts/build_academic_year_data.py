@@ -35,6 +35,23 @@ def semester_list(term):
     return [semester for semester in ("秋", "春") if semester in term]
 
 
+def resolve_semesters(course, planned_term):
+    """Prefer an actual current-year offering when it conflicts with the plan."""
+    planned = semester_list(planned_term)
+    official = []
+    for meeting in course.get("meetings", []):
+        if not meeting.get("reference") and meeting.get("semester") in ("秋", "春"):
+            official.append(meeting["semester"])
+    current = official or semester_list(course.get("term", ""))
+    current = [semester for semester in ("秋", "春") if semester in current]
+
+    # A prior catalogue row must not move a course away from an actual
+    # 2026–2027 offering. Compatible plan terms (for example 秋春 + 秋) remain.
+    if current and planned and set(current).isdisjoint(planned):
+        return current
+    return [semester for semester in ("秋", "春") if semester in set(current + planned)]
+
+
 def expand_weeks(spec):
     weeks = set()
     for part in spec.replace("第", "").replace("周", "").replace("、", ",").split(","):
@@ -162,7 +179,8 @@ def main():
                 "plannedTerm": row["开课学期"],
                 "note": row["备注"],
             })
-        course["semesters"] = semester_list(course.get("plannedTerm") or course.get("term", "秋"))
+        course["semesters"] = resolve_semesters(course, course.get("plannedTerm", ""))
+        course["plannedTerm"] = "".join(course["semesters"])
         if "春" in course["semesters"]:
             course["meetings"].extend(spring_reference.get(normalize_name(course["name"]), []))
         course["scheduleStatus"] = "已排课" if any(not meeting["reference"] for meeting in course["meetings"]) else ("参考排课" if course["meetings"] else "待排课")
@@ -199,8 +217,8 @@ def main():
         })
 
     term_counts = Counter()
-    for row in plan_rows:
-        for semester in semester_list(row["开课学期"]):
+    for course in courses:
+        for semester in course["semesters"]:
             term_counts[semester] += 1
 
     existing_meta = existing["meta"]
